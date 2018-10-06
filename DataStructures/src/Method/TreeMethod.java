@@ -1,4 +1,4 @@
-package DataStructures;
+package Method;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
@@ -220,14 +220,96 @@ public class TreeMethod {
         inorderTraversal(arrayList, root.right);
     }
 
+    // 后序遍历
+    public static void postorder(TreeNode treeNode) {
+        if (treeNode == null) {
+            return;
+        }
+        postorder(treeNode.left);
+        postorder(treeNode.right);
+        System.out.print(treeNode.val + " ");
+    }
+
+    // 后序遍历 非递归
+    public static void postorder_(TreeNode treeNode) {
+        Stack<TreeNode> stack = new Stack<>();
+        TreeNode node = treeNode, temp = null;
+        // 判断条件：所有栈为空，且节点指向为空，即所有节点已经完成遍历
+        while (!stack.isEmpty() || node != null) {
+            // 向左探索
+            while (node != null) {
+                stack.add(node);
+                node = node.left;
+            }
+            // 这里要判断是否为第几次遍历
+            if (!stack.empty()) {
+                temp = stack.peek();
+                if (temp.isFirst) {
+                    temp = stack.pop();
+                    System.out.print(temp.val + " ");
+                } else {
+                    temp.isFirst = true;
+                    node = temp.right;
+                }
+            }
+        }
+    }
+
+    // 中序遍历
+    public static void inorder(TreeNode treeNode) {
+        if (treeNode == null) {
+            return;
+        }
+        inorder(treeNode.left);
+        System.out.print(treeNode.val + " ");
+        inorder(treeNode.right);
+    }
+
+    // 中序遍历 非递归
+    public static void inorder_(TreeNode root) {
+        Stack<TreeNode> stack = new Stack<>();
+        TreeNode node = root, temp = null;
+        // 判断条件：所有栈为空，且节点指向为空，即所有节点已经完成遍历
+        while (!stack.isEmpty() || node != null) {
+            // 向左探索
+            while (node != null) {
+                stack.add(node);
+                node = node.left;
+            }
+            // 每次出栈的时候进行读取
+            if (!stack.empty()) {
+                temp = stack.pop();
+                System.out.print(temp.val + " ");
+                node = temp.right;
+            }
+        }
+    }
+
     // 前序遍历
-    private static void preorder(TreeNode treeNode) {
+    public static void preorder(TreeNode treeNode) {
         if (treeNode == null) {
             return;
         }
         System.out.print(treeNode.val + " ");
         preorder(treeNode.left);
         preorder(treeNode.right);
+    }
+
+    // 前序遍历 -> 非递归
+    public static void preorder_(TreeNode root) {
+        Stack<TreeNode> stack = new Stack<>();
+        stack.add(root);
+        TreeNode temp = null;
+        while (!stack.isEmpty()) {
+            temp = stack.pop();
+            System.out.print(temp.val + " ");
+            if (temp.right != null) {
+                stack.add(temp.right);
+            }
+            if (temp.left != null) {
+                stack.add(temp.left);
+            }
+        }
     }
 
     // 输出每个节点的深度

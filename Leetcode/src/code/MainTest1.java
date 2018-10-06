@@ -1,7 +1,5 @@
-package Test.DynamicPlanningTest;
+package code;
 
-import DynamicPlanning.Main1;
-import DynamicPlanning.Main2;
 import org.junit.Test;
 
 public class MainTest1 {

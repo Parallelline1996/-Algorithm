@@ -1,4 +1,4 @@
-package DataStructures;
+package Method;
 
 public class TreeLinkNode {
     public int val;

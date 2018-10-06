@@ -1,15 +1,44 @@
-package Test.DataStructuresTest;
+package Test;
 
-import DataStructures.TreeMethod;
-import DataStructures.TreeNode;
+import Method.TreeMethod;
+import Method.TreeNode;
 import org.junit.Test;
 
-import java.lang.reflect.Method;
 import java.util.ArrayList;
 
 public class TreeMethodTest {
 
     private TreeMethod method = new TreeMethod();
+
+    @Test
+    public void testPostOrder() {
+        TreeNode a = init();
+        // 递归的先序遍历
+        TreeMethod.postorder(a);
+        System.out.println();
+        // 非递归的先序遍历
+        TreeMethod.postorder_(a);
+    }
+
+    @Test
+    public void testInOrder() {
+        TreeNode a = init();
+        // 递归的先序遍历
+        TreeMethod.inorder(a);
+        System.out.println();
+        // 非递归的先序遍历
+        TreeMethod.inorder_(a);
+    }
+
+    @Test
+    public void testPreOrder() {
+        TreeNode a = init();
+        // 递归的先序遍历
+        TreeMethod.preorder(a);
+        System.out.println();
+        // 非递归的先序遍历
+        TreeMethod.preorder_(a);
+    }
 
     @Test
     public void test(){

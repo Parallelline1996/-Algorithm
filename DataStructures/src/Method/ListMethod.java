@@ -1,13 +1,11 @@
-package DataStructures;
-
-import DynamicPlanning.Main2;
+package Method;
 
 public class ListMethod {
 
     /*
-    * Sort a linked list using insertion sort.
-    * 待完成
-    * */
+     * Sort a linked list using insertion sort.
+     * 待完成
+     * */
     public ListNode insertionSortList(ListNode head) {
         if (head == null) {
             return null;
@@ -109,3 +107,4 @@ public class ListMethod {
         return first;
     }
 }
+

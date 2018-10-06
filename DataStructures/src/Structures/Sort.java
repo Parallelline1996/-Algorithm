@@ -1,4 +1,4 @@
-package DataStructures;
+package Structures;
 
 public class Sort {
 

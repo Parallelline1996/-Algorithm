@@ -1,10 +1,10 @@
-package Test.DataStructuresTest;
+package Test;
 
-import DataStructures.ListMethod;
-import DataStructures.ListNode;
+import Method.ListMethod;
+import Method.ListNode;
 import org.junit.Test;
 
-public class LinkMethodTest {
+public class ListMethodTest {
 
     @Test
     public void testInsertionSortList() {
