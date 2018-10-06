@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/DataStructures/DataStructures.iml" filepath="$PROJECT_DIR$/DataStructures/DataStructures.iml" />
       <module fileurl="file://$PROJECT_DIR$/Huawei/Huawei.iml" filepath="$PROJECT_DIR$/Huawei/Huawei.iml" />
       <module fileurl="file://$PROJECT_DIR$/Leetcode/Leetcode.iml" filepath="$PROJECT_DIR$/Leetcode/Leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/offer/offer.iml" filepath="$PROJECT_DIR$/offer/offer.iml" />
     </modules>
   </component>
 </project>
