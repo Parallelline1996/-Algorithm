@@ -4,27 +4,46 @@ public class Sort {
 
     public static void main(String[] args) {
         int[] temp = {1, 5, 6, 9, 3, 7};
-        insertSort(temp);
-        for (int a : temp
-             ) {
-            System.out.print(a + " ");
-        }
-        System.out.println();
+//        insertSort(temp);
+//        for (int a : temp
+//             ) {
+//            System.out.print(a + " ");
+//        }
+//        System.out.println();
+//
+//        temp = new int[]{1, 5, 6, 9, 3, 7};
+//        bubbleSort(temp);
+//        for (int a : temp
+//             ) {
+//            System.out.print(a + " ");
+//        }
+//        System.out.println();
+//
+//        temp = new int[]{1, 5, 6, 9, 3, 7};
+//        selectSort(temp);
+//        for (int a : temp
+//                ) {
+//            System.out.print(a + " ");
+//        }
+//        System.out.println();
+//
+//        temp = new int[]{1, 5, 6, 9, 8, 3, 2, 33};
+//        shellSort(temp);
+//        for (int a : temp
+//                ) {
+//            System.out.print(a + " ");
+//        }
+//        System.out.println();
 
-        temp = new int[]{1, 5, 6, 9, 3, 7};
-        bubbleSort(temp);
-        for (int a : temp
-             ) {
-            System.out.print(a + " ");
-        }
-        System.out.println();
-
-        temp = new int[]{1, 5, 6, 9, 3, 7};
-        selectSort(temp);
+        temp = new int[]{50, 55, 2, 9, 8, 5, 58, 31,
+                        77, 100, 96, 1, 4, 3, 22, 6};
+        shellSort(temp);
         for (int a : temp
                 ) {
             System.out.print(a + " ");
         }
+        System.out.println();
+
     }
 
     /*
@@ -87,5 +106,27 @@ public class Sort {
                 array[temp] = temp_;
             }
         }
+    }
+
+    /*
+    * 希尔排序，输入数组为2的倍数
+    * */
+    private static void shellSort(int[] array) {
+//        if (array == null) {
+//            return;
+//        }
+//        int index = array.length / 2;
+//        while (index > 0) {
+//            for (int i = 0; i < index; i++) {
+//                for (int j = i, k = 0; k < array.length / index - 1; j += index, k++) {
+//                    if (array[j] > array[j + index]) {
+//                        int temp = array[j];
+//                        array[j] = array[j + index];
+//                        array[j + index] = temp;
+//                    }
+//                }
+//            }
+//            index /= 2;
+//        }
     }
 }
