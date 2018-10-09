@@ -13,7 +13,7 @@ public class Main15 {
 	}
 
 	// 思路：n & (n - 1)，每一次都会消去一个二进制的 1
-	public static int NumberOf1(int n) {
+	private static int NumberOf1(int n) {
 		int number = 0;
 		// 计算一共有多少次 n & (n - 1) 的操作，就有多少个 1 
 		while (n != 0) {

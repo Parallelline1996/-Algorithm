@@ -1,9 +1,9 @@
 package chapter2;
 
+import assit.TreeNode;
+
 import java.util.LinkedList;
 import java.util.Queue;
-
-import niuke.assit.TreeNode;
 
 /*
  * 输入某二叉树的前序遍历和中序遍历的结果，请重建出该二叉树。
@@ -30,7 +30,7 @@ public class Main7 {
 		}
 	}
 	
-	public static TreeNode reConstructBinaryTree(int[] pre, int pre_start, int pre_end, 
+	private static TreeNode reConstructBinaryTree(int[] pre, int pre_start, int pre_end,
 			int[] in, int in_start, int in_end) {
 		// 判断是否符合要求
 		if (pre_start > pre_end || in_start  > in_end) {
@@ -56,7 +56,7 @@ public class Main7 {
 		return root;
 	}
 	
-	public static TreeNode reConstructBinaryTree(int[] pre, int[] in) {
+	private static TreeNode reConstructBinaryTree(int[] pre, int[] in) {
 		if (pre.length != in.length) {
 			return null;
 		}

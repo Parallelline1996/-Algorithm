@@ -95,11 +95,13 @@ public class Sort {
         }
         for (int i = 0; i < array.length - 1; i++) {
             int temp = i;
+            // 选择出剩余元素中，符合条件的
             for (int j = i; j < array.length; j++) {
                 if (array[j] < array[temp]) {
                     temp = j;
                 }
             }
+            // 将选择出来的元素放置到对应的位置
             if (temp != i) {
                 int temp_ = array[i];
                 array[i] = array[temp];
@@ -129,4 +131,6 @@ public class Sort {
 //            index /= 2;
 //        }
     }
+
+
 }

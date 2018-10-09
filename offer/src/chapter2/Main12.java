@@ -15,7 +15,7 @@ public class Main12 {
 	 * @param rows 行数
 	 * @param cols 列数
 	 * @param str 目标数组
-	 * @return
+	 * @return boolean
 	 */
 	public boolean hasPath(char[] matrix, int rows, int cols, char[] str) {        
 		// 创建一个数组来记录是否被访问
@@ -50,6 +50,6 @@ public class Main12 {
 			return true;        
 		}        
 		flag[index] = 0;        
-		return false;    
-		}
+		return false;
+	}
 }

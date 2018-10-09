@@ -21,7 +21,7 @@ public class Main16 {
 	}
 	
 	// 分成正指数跟负指数进行讨论
-	public static double Power(double base, int exponent) {
+	private static double Power(double base, int exponent) {
 		if (exponent >= 0) {
 			return PowerPositive(base, exponent);
 		}
@@ -30,7 +30,7 @@ public class Main16 {
 	}
 	
 	// 当指数为正时，不断分为二分之一进行计算
-	public static double PowerPositive(double base, int exponent) {
+	private static double PowerPositive(double base, int exponent) {
 		if (exponent == 0) {
 			return 1; 
 		}
@@ -46,7 +46,7 @@ public class Main16 {
 	}
 	
 	// 当指数为负时，也是分为二分之一进行计算，但指数1时情况不同
-	public static double PowerNagetive(double base, int exponent) {
+	private static double PowerNagetive(double base, int exponent) {
 		if (exponent == 0) {
 			return 1; 
 		}
@@ -61,7 +61,7 @@ public class Main16 {
 		return result;
 	}
 	
-	public static double checkPower(double a, int exponent) {
+	private static double checkPower(double a, int exponent) {
 		return Math.pow(a, exponent);
 	}
 }

@@ -29,8 +29,6 @@ public class Main4 {
 					return true;
 				}else if (array[j][i] > target) {
 					break;
-				}else if (array[j][i] < target) {
-					continue;
 				}
 			}
 		}

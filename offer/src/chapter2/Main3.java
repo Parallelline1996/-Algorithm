@@ -20,7 +20,7 @@ public class Main3 {
 	}
 	
 	// duplication[0] 用于记录重复的数字
-	public static boolean duplicate(int numbers[],int length,int [] duplication) {
+	private static boolean duplicate(int numbers[],int length,int [] duplication) {
 		
 		// 对输入情况的判断，判断数组是否为空
 		if (numbers == null) {
@@ -48,7 +48,8 @@ public class Main3 {
     }
 	
 	// 下面采用不需要空间开销的解法：
-	public static boolean duplicate_(int numbers[],int length,int [] duplication) {
+	// 从头到尾扫描整个数组，让值交换到对应的下标处，如果出现交换到时原值已经是下标值，则元素重复
+	private static boolean duplicate_(int numbers[],int length,int [] duplication) {
 		
 		// 对输入情况的判断，判断数组是否为空
 		if (numbers == null) {

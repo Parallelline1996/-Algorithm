@@ -11,9 +11,9 @@ public class Main9 {
 	}
 	
 	// 这个用于进栈
-    static Stack<Integer> stack1 = new Stack<Integer>();
+    private static Stack<Integer> stack1 = new Stack<Integer>();
 	// 这个用于出栈
-	static Stack<Integer> stack2 = new Stack<Integer>(); 
+	private static Stack<Integer> stack2 = new Stack<Integer>();
 	
 	// 实现入队列操作
 	public static void push(int node) {

@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/-Algorithm.iml" filepath="$PROJECT_DIR$/-Algorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/DataStructures/DataStructures.iml" filepath="$PROJECT_DIR$/DataStructures/DataStructures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Examination/Examination.iml" filepath="$PROJECT_DIR$/Examination/Examination.iml" />
       <module fileurl="file://$PROJECT_DIR$/Huawei/Huawei.iml" filepath="$PROJECT_DIR$/Huawei/Huawei.iml" />
       <module fileurl="file://$PROJECT_DIR$/Leetcode/Leetcode.iml" filepath="$PROJECT_DIR$/Leetcode/Leetcode.iml" />
       <module fileurl="file://$PROJECT_DIR$/Leetcode-cn/Leetcode-cn.iml" filepath="$PROJECT_DIR$/Leetcode-cn/Leetcode-cn.iml" />

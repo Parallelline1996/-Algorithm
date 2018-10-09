@@ -2,7 +2,7 @@ package chapter2;
 import java.util.ArrayList;
 import java.util.Stack;
 
-import niuke.assit.ListNode;
+import assit.ListNode;
 
 /*
  * 输入一个链表，从尾到头打印链表每个节点的值。

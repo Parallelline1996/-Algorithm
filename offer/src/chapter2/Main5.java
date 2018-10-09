@@ -10,8 +10,8 @@ package chapter2;
  * 补充java基础：
  *  String字符串常量,StringBuilder、StringBuffer是字符串变量
  *  String：适用于少量的字符串操作的情况
-　　StringBuilder：适用于单线程下在字符缓冲区进行大量操作的情况
-　　StringBuffer：适用多线程下在字符缓冲区进行大量操作的情况
+ *  StringBuilder：适用于单线程下在字符缓冲区进行大量操作的情况
+ *  StringBuffer：适用多线程下在字符缓冲区进行大量操作的情况
  * 
  * */
 public class Main5 {
@@ -20,12 +20,12 @@ public class Main5 {
 		System.out.println(replaceSpace(sBuffer));
 	}
 	
-	public static String replaceSpace(StringBuffer str) {
+	private static String replaceSpace(StringBuffer str) {
     	StringBuilder sBuilder = new StringBuilder();
     	for(int i = 0; i < str.length(); i++) {
     		if(str.charAt(i) != ' ') {
     			sBuilder.append(str.charAt(i));
-    		}else {
+    		} else {
 				sBuilder.append("%20");
 			}
     	}

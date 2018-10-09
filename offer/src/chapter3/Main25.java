@@ -1,6 +1,7 @@
 package chapter3;
 
-import niuke.assit.ListNode;
+
+import assit.ListNode;
 
 /*
  * 输入两个单调递增的链表，输出两个链表合成后的链表，

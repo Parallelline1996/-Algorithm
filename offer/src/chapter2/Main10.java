@@ -14,7 +14,7 @@ public class Main10 {
 		System.out.println(Fibonacci(6));
 	}
 	
-	public static int Fibonacci(int n) {
+	private static int Fibonacci(int n) {
 		if (n <= 1) {
 			return n;
 		}
