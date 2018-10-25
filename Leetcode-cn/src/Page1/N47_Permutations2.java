@@ -3,17 +3,25 @@ package Page1;
 import java.util.ArrayList;
 import java.util.List;
 
-/*
-* 给定一个没有重复数字的序列，返回其所有可能的全排列
-* */
-public class N46_Permutations {
+public class N47_Permutations2 {
 
     public static void main(String[] args) {
         List<List<Integer>> lists = permute(new int[]{1, 2, 3});
+//        for (List list : lists
+//                ) {
+//            for (Object a : list
+//                    ) {
+//                System.out.print(a + "  ");
+//            }
+//            System.out.println();
+//        }
+        System.out.println();
+
+        lists = permute(new int[]{1, 1, 3});
         for (List list : lists
-             ) {
+                ) {
             for (Object a : list
-                 ) {
+                    ) {
                 System.out.print(a + "  ");
             }
             System.out.println();
@@ -33,13 +41,17 @@ public class N46_Permutations {
         if (start == nums.length - 1) {
             List temp = new ArrayList(nums.length);
             for (int a : nums
-                 ) {
+                    ) {
                 temp.add(a);
             }
-            output.add(temp);
-            System.out.println(temp.toString());
+            if (!output.contains(temp)) {
+                output.add(temp);
+            }
         } else {
             for (int i = start; i < nums.length; i++) {
+                if (nums[i] == nums[start] && i != start) {
+                    continue;
+                }
                 swap(nums, start, i);
                 permute(nums, start + 1, output);
                 swap(nums, start, i);
