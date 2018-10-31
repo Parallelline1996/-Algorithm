@@ -2,13 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8de682a2-75b8-4902-9a63-d046a880c72d" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Leetcode-cn/src/Page1/N32_LongestValidParentheses.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Leetcode-cn/src/Page18/N867_TransposeMatrix.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Leetcode-cn/src/Page3/N121_BestTimeToBuyAndSellStock.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Leetcode-cn/src/Page3/N122_BestTimeToBuyAndSellStock2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Leetcode-cn/src/Page3/N123_BestTimeToBuyAndSellStock3.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Leetcode-cn/src/Page13/N657_RobotReturnToOrigin.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Leetcode-cn/src/Page15/N746_MinCostClimbingStairs.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Leetcode-cn/src/Page16/N791_CustomSortString.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Leetcode-cn/src/Page2/N64_MinimumPathSum.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Leetcode-cn/src/Page4/N198_HouseRobber.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode-cn/Page5/N229_MajorityElement2.class" afterPath="$PROJECT_DIR$/out/production/Leetcode-cn/Page5/N229_MajorityElement2.class" />
+      <change beforePath="$PROJECT_DIR$/Leetcode-cn/src/Page7/N338_CountingBits.java" afterPath="$PROJECT_DIR$/Leetcode-cn/src/Page7/N338_CountingBits.java" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode-cn/Page18/N867_TransposeMatrix.class" afterPath="$PROJECT_DIR$/out/production/Leetcode-cn/Page18/N867_TransposeMatrix.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode-cn/Page3/N123_BestTimeToBuyAndSellStock3.class" afterPath="$PROJECT_DIR$/out/production/Leetcode-cn/Page3/N123_BestTimeToBuyAndSellStock3.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode-cn/Page7/N338_CountingBits.class" afterPath="$PROJECT_DIR$/out/production/Leetcode-cn/Page7/N338_CountingBits.class" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/permutation.java" afterPath="$PROJECT_DIR$/src/algorithm/permutation.java" />
+      <change beforePath="$PROJECT_DIR$/src/blog/Final.java" afterPath="$PROJECT_DIR$/src/blog/Final.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,29 +28,95 @@
       <file leaf-file-name="N53_MaximumSubarray.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Leetcode-cn/src/Page2/N53_MaximumSubarray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="291">
               <caret line="17" column="48" lean-forward="false" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="N32_LongestValidParentheses.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Leetcode-cn/src/Page1/N32_LongestValidParentheses.java">
+      <file leaf-file-name="N198_HouseRobber.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Leetcode-cn/src/Page4/N198_HouseRobber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="744">
-              <caret line="31" column="36" lean-forward="false" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
+            <state relative-caret-position="408">
+              <caret line="35" column="40" lean-forward="false" selection-start-line="35" selection-start-column="40" selection-end-line="35" selection-end-column="40" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="N121_BestTimeToBuyAndSellStock.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Leetcode-cn/src/Page3/N121_BestTimeToBuyAndSellStock.java">
+      <file leaf-file-name="N746_MinCostClimbingStairs.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Leetcode-cn/src/Page15/N746_MinCostClimbingStairs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="21" column="26" lean-forward="false" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+            <state relative-caret-position="315">
+              <caret line="28" column="24" lean-forward="true" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="N338_CountingBits.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Leetcode-cn/src/Page7/N338_CountingBits.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="42" column="25" lean-forward="true" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="N657_RobotReturnToOrigin.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Leetcode-cn/src/Page13/N657_RobotReturnToOrigin.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="16" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Final.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/blog/Final.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="16" column="40" lean-forward="true" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="N791_CustomSortString.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Leetcode-cn/src/Page16/N791_CustomSortString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="20" column="4" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+              <folding>
+                <element signature="e#544#545#0" expanded="true" />
+                <element signature="e#571#572#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="N64_MinimumPathSum.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Leetcode-cn/src/Page2/N64_MinimumPathSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="840">
+              <caret line="35" column="9" lean-forward="true" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Math.java" pinned="false" current-in-tab="false">
+        <entry file="jar://F:/Program Files/Java/jdk1.8.0_152/src.zip!/java/lang/Math.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="1334" column="22" lean-forward="false" selection-start-line="1334" selection-start-column="22" selection-end-line="1334" selection-end-column="22" />
+              <folding>
+                <element signature="e#52232#52233#0" expanded="true" />
+                <element signature="e#52271#52272#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -95,13 +166,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Leetcode-cn/src/Page1/N9_PalindromeNumber.java" />
-        <option value="$PROJECT_DIR$/Leetcode-cn/src/Page1/N13_RomanToInteger.java" />
-        <option value="$PROJECT_DIR$/src/blog/Final.java" />
-        <option value="$PROJECT_DIR$/Leetcode-cn/src/Page2/N69_Sqrt.java" />
-        <option value="$PROJECT_DIR$/Leetcode-cn/src/Page2/N83_RemoveDuplicatesfromSortedList.java" />
-        <option value="$PROJECT_DIR$/Leetcode-cn/src/Page2/ListNode.java" />
-        <option value="$PROJECT_DIR$/Leetcode-cn/src/Page2/N_82RemoveDuplicatesfromSortedListII.java" />
         <option value="$PROJECT_DIR$/Leetcode-cn/src/Page2/N88_MergeSortedArray.java" />
         <option value="$PROJECT_DIR$/Leetcode-cn/src/Page2/N82_RemoveDuplicatesfromSortedListII.java" />
         <option value="$PROJECT_DIR$/Leetcode-cn/src/Page4/N191_Numberof1Bits.java" />
@@ -126,7 +190,6 @@
         <option value="$PROJECT_DIR$/Leetcode-cn/src/Page3/N118_PascalsTriangle.java" />
         <option value="$PROJECT_DIR$/Leetcode-cn/src/Page19/N908_SmallestRangeI.java" />
         <option value="$PROJECT_DIR$/Leetcode-cn/src/Page3/N119_PascalsTrangle2.java" />
-        <option value="$PROJECT_DIR$/Leetcode-cn/src/Page7/N338_CountingBits.java" />
         <option value="$PROJECT_DIR$/Leetcode-cn/src/Page1/N14_LongestCommonPrefix.java" />
         <option value="$PROJECT_DIR$/Leetcode-cn/src/Page1/N20_ValidParentheses.java" />
         <option value="$PROJECT_DIR$/Leetcode-cn/src/Page1/N38_CountandSay.java" />
@@ -146,6 +209,14 @@
         <option value="$PROJECT_DIR$/Leetcode-cn/src/Page3/N122_BestTimeToBuyAndSellStock2.java" />
         <option value="$PROJECT_DIR$/Leetcode-cn/src/Page18/N867_TransposeMatrix.java" />
         <option value="$PROJECT_DIR$/Leetcode-cn/src/Page3/N123_BestTimeToBuyAndSellStock3.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/permutation.java" />
+        <option value="$PROJECT_DIR$/Leetcode-cn/src/Page4/N198_HouseRobber.java" />
+        <option value="$PROJECT_DIR$/Leetcode-cn/src/Page15/N746_MinCostClimbingStairs.java" />
+        <option value="$PROJECT_DIR$/Leetcode-cn/src/Page7/N338_CountingBits.java" />
+        <option value="$PROJECT_DIR$/Leetcode-cn/src/Page2/N64_MinimumPathSum.java" />
+        <option value="$PROJECT_DIR$/Leetcode-cn/src/Page13/N657_RobotReturnToOrigin.java" />
+        <option value="$PROJECT_DIR$/Leetcode-cn/src/Page16/N791_CustomSortString.java" />
+        <option value="$PROJECT_DIR$/src/blog/Final.java" />
       </list>
     </option>
   </component>
@@ -155,7 +226,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-9" />
     <option name="y" value="-9" />
     <option name="width" value="1489" />
@@ -176,6 +247,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -266,6 +338,13 @@
               <item name="-Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="Leetcode-cn" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Page13" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="-Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="-Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="Leetcode-cn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Page15" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -274,6 +353,13 @@
               <item name="Leetcode-cn" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Page16" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="-Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="-Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="Leetcode-cn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Page18" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="-Algorithm" type="b2602c69:ProjectViewProjectNode" />
@@ -307,10 +393,9 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -322,7 +407,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="last_opened_file_path" value="F:/javaLib/junit-4.10.jar!/" />
-    <property name="SearchEverywhereHistoryKey" value="Integer&#9;FILE&#9;jar://F:/Program Files/Java/jdk1.8.0_152/src.zip!/java/lang/Integer.java&#10;Long&#9;FILE&#9;jar://F:/Program Files/Java/jdk1.8.0_152/src.zip!/java/lang/Long.java&#10;Thread&#9;PSI&#9;JAVA://java.lang.Thread&#10;ArrayList&#9;FILE&#9;jar://F:/Program Files/Java/jdk1.8.0_152/src.zip!/java/util/ArrayList.java&#10;Object&#9;PSI&#9;JAVA://java.lang.Object&#10;StringBu&#9;PSI&#9;JAVA://java.lang.StringBuffer&#10;Hashmap&#9;PSI&#9;JAVA://java.util.HashMap&#10;LinkH&#9;FILE&#9;jar://F:/Program Files/Java/jdk1.8.0_152/src.zip!/java/util/LinkedHashMap.java&#10;TreeMap&#9;PSI&#9;JAVA://java.util.TreeMap&#10;HashMa&#9;PSI&#9;JAVA://java.util.HashMap&#10;Array&#9;FILE&#9;jar://F:/Program Files/Java/jdk1.8.0_152/src.zip!/java/util/ArrayList.java" />
+    <property name="SearchEverywhereHistoryKey" value="hashtable&#9;PSI&#9;JAVA://java.util.Hashtable&#10;Integer&#9;FILE&#9;jar://F:/Program Files/Java/jdk1.8.0_152/src.zip!/java/lang/Integer.java&#10;Long&#9;FILE&#9;jar://F:/Program Files/Java/jdk1.8.0_152/src.zip!/java/lang/Long.java&#10;Thread&#9;PSI&#9;JAVA://java.lang.Thread&#10;ArrayList&#9;FILE&#9;jar://F:/Program Files/Java/jdk1.8.0_152/src.zip!/java/util/ArrayList.java&#10;Object&#9;PSI&#9;JAVA://java.lang.Object&#10;StringBu&#9;PSI&#9;JAVA://java.lang.StringBuffer&#10;Hashmap&#9;PSI&#9;JAVA://java.util.HashMap&#10;LinkH&#9;FILE&#9;jar://F:/Program Files/Java/jdk1.8.0_152/src.zip!/java/util/LinkedHashMap.java&#10;TreeMap&#9;PSI&#9;JAVA://java.util.TreeMap&#10;HashMa&#9;PSI&#9;JAVA://java.util.HashMap&#10;Array&#9;FILE&#9;jar://F:/Program Files/Java/jdk1.8.0_152/src.zip!/java/util/ArrayList.java" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
@@ -352,7 +437,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.N867_TransposeMatrix">
+  <component name="RunManager" selected="Application.Final">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -360,14 +445,33 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="N121_BestTimeToBuyAndSellStock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Final" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Page3.*" />
+          <option name="PATTERN" value="blog.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Page3.N121_BestTimeToBuyAndSellStock" />
+      <option name="MAIN_CLASS_NAME" value="blog.Final" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="-Algorithm" />
+      <envs />
+    </configuration>
+    <configuration name="N198_HouseRobber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Page4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Page4.N198_HouseRobber" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -379,14 +483,14 @@
       <module name="Leetcode-cn" />
       <envs />
     </configuration>
-    <configuration name="N123_BestTimeToBuyAndSellStock3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="N338_CountingBits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Page3.*" />
+          <option name="PATTERN" value="Page7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Page3.N123_BestTimeToBuyAndSellStock3" />
+      <option name="MAIN_CLASS_NAME" value="Page7.N338_CountingBits" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -398,14 +502,14 @@
       <module name="Leetcode-cn" />
       <envs />
     </configuration>
-    <configuration name="N229_MajorityElement2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="N64_MinimumPathSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Page5.*" />
+          <option name="PATTERN" value="Page2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Page5.N229_MajorityElement2" />
+      <option name="MAIN_CLASS_NAME" value="Page2.N64_MinimumPathSum" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -417,33 +521,14 @@
       <module name="Leetcode-cn" />
       <envs />
     </configuration>
-    <configuration name="N32_LongestValidParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="N746_MinCostClimbingStairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Page1.*" />
+          <option name="PATTERN" value="Page15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Page1.N32_LongestValidParentheses" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Leetcode-cn" />
-      <envs />
-    </configuration>
-    <configuration name="N867_TransposeMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Page18.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Page18.N867_TransposeMatrix" />
+      <option name="MAIN_CLASS_NAME" value="Page15.N746_MinCostClimbingStairs" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -530,19 +615,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.N229_MajorityElement2" />
-      <item index="1" class="java.lang.String" itemvalue="Application.N32_LongestValidParentheses" />
-      <item index="2" class="java.lang.String" itemvalue="Application.N121_BestTimeToBuyAndSellStock" />
-      <item index="3" class="java.lang.String" itemvalue="Application.N123_BestTimeToBuyAndSellStock3" />
-      <item index="4" class="java.lang.String" itemvalue="Application.N867_TransposeMatrix" />
+      <item index="0" class="java.lang.String" itemvalue="Application.N198_HouseRobber" />
+      <item index="1" class="java.lang.String" itemvalue="Application.N746_MinCostClimbingStairs" />
+      <item index="2" class="java.lang.String" itemvalue="Application.N338_CountingBits" />
+      <item index="3" class="java.lang.String" itemvalue="Application.N64_MinimumPathSum" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Final" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.N867_TransposeMatrix" />
-        <item index="1" class="java.lang.String" itemvalue="Application.N123_BestTimeToBuyAndSellStock3" />
-        <item index="2" class="java.lang.String" itemvalue="Application.N121_BestTimeToBuyAndSellStock" />
-        <item index="3" class="java.lang.String" itemvalue="Application.N32_LongestValidParentheses" />
-        <item index="4" class="java.lang.String" itemvalue="Application.N229_MajorityElement2" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Final" />
+        <item index="1" class="java.lang.String" itemvalue="Application.N64_MinimumPathSum" />
+        <item index="2" class="java.lang.String" itemvalue="Application.N338_CountingBits" />
+        <item index="3" class="java.lang.String" itemvalue="Application.N746_MinCostClimbingStairs" />
+        <item index="4" class="java.lang.String" itemvalue="Application.N198_HouseRobber" />
       </list>
     </recent_temporary>
   </component>
@@ -608,6 +693,9 @@
       <workItem from="1540648417709" duration="3811000" />
       <workItem from="1540775208468" duration="8556000" />
       <workItem from="1540798155073" duration="617000" />
+      <workItem from="1540826831496" duration="836000" />
+      <workItem from="1540875111054" duration="1630000" />
+      <workItem from="1540948819931" duration="11568000" />
     </task>
     <servers />
   </component>
@@ -644,36 +732,37 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="267982000" />
+    <option name="totallyTimeSpent" value="282016000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290398" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16510539" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23185012" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26152197" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27224007" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26795283" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26741692" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3711944" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3711944" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290398" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
     </layout>
@@ -718,7 +807,7 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="87" />
+      <option name="time" value="88" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -742,76 +831,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://F:/Program Files/Java/jdk1.8.0_152/src.zip!/java/lang/StringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1776">
-          <caret line="99" column="11" lean-forward="false" selection-start-line="99" selection-start-column="11" selection-end-line="99" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode-cn/src/Page3/N101_SymmetricTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="16" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode-cn/src/Page16/N771_JewelsAndStones.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="29" column="22" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="29" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://F:/Program Files/Java/jdk1.8.0_152/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13584">
-          <caret line="611" column="18" lean-forward="false" selection-start-line="611" selection-start-column="18" selection-end-line="611" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode-cn/src/Page15/N709_ToLowerCase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://F:/Program Files/Java/jdk1.8.0_152/src.zip!/java/util/HashSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2184">
-          <caret line="117" column="41" lean-forward="false" selection-start-line="117" selection-start-column="19" selection-end-line="117" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode-cn/src/Page3/N137_SingleNumber2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1368">
-          <caret line="58" column="29" lean-forward="false" selection-start-line="58" selection-start-column="29" selection-end-line="58" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode-cn/src/Page3/N136_SingleNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="17" column="9" lean-forward="false" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://F:/Program Files/Java/jdk1.8.0_152/src.zip!/java/lang/Math.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17160">
-          <caret line="772" column="70" lean-forward="false" selection-start-line="772" selection-start-column="70" selection-end-line="772" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://F:/Program Files/Java/jdk1.8.0_152/src.zip!/java/util/Random.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11688">
-          <caret line="530" column="18" lean-forward="false" selection-start-line="530" selection-start-column="18" selection-end-line="530" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Leetcode-cn/src/Page6/N260_SingleNumber3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
@@ -868,13 +887,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/permutation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" column="34" lean-forward="false" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/blog/toutiao2.java" />
     <entry file="file://$PROJECT_DIR$/src/blog/toutiao.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -902,13 +914,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="816">
           <caret line="35" column="34" lean-forward="false" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode-cn/src/Page7/N338_CountingBits.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="18" column="40" lean-forward="false" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
         </state>
       </provider>
     </entry>
@@ -1038,11 +1043,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode-cn/src/Page2/N53_MaximumSubarray.java">
+    <entry file="file://$PROJECT_DIR$/Leetcode-cn/src/easy/Array.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="17" column="48" lean-forward="false" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
-          <folding />
+        <state relative-caret-position="240">
+          <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode-cn/src/Page3/N123_BestTimeToBuyAndSellStock3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-168">
+          <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode-cn/src/Page3/N122_BestTimeToBuyAndSellStock2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="8" lean-forward="false" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -1054,42 +1072,121 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode-cn/src/Page1/N32_LongestValidParentheses.java">
+    <entry file="file://$PROJECT_DIR$/src/blog/aa/Hello.java" />
+    <entry file="file://$PROJECT_DIR$/src/algorithm/permutation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="744">
-          <caret line="31" column="36" lean-forward="false" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
+        <state relative-caret-position="432">
+          <caret line="18" column="26" lean-forward="false" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode-cn/src/easy/Array.java">
+    <entry file="jar://F:/Program Files/Java/jdk1.8.0_152/src.zip!/java/util/Hashtable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+        <state relative-caret-position="24">
+          <caret line="368" column="13" lean-forward="false" selection-start-line="368" selection-start-column="13" selection-end-line="368" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode-cn/src/Page3/N123_BestTimeToBuyAndSellStock3.java">
+    <entry file="file://$PROJECT_DIR$/Leetcode-cn/src/Page1/N3_LongestSubstringWithoutRepeatingCharacters.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-168">
-          <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode-cn/src/Page3/N122_BestTimeToBuyAndSellStock2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="16" column="8" lean-forward="false" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        <state relative-caret-position="24">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Leetcode-cn/src/Page3/N121_BestTimeToBuyAndSellStock.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
+        <state relative-caret-position="504">
           <caret line="21" column="26" lean-forward="false" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode-cn/src/Page1/N32_LongestValidParentheses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="31" column="36" lean-forward="false" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode-cn/src/Page2/N53_MaximumSubarray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="17" column="48" lean-forward="false" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode-cn/src/Page4/N198_HouseRobber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="35" column="40" lean-forward="false" selection-start-line="35" selection-start-column="40" selection-end-line="35" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Program Files/Java/jdk1.8.0_152/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="1334" column="22" lean-forward="false" selection-start-line="1334" selection-start-column="22" selection-end-line="1334" selection-end-column="22" />
+          <folding>
+            <element signature="e#52232#52233#0" expanded="true" />
+            <element signature="e#52271#52272#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode-cn/src/Page15/N746_MinCostClimbingStairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="28" column="24" lean-forward="true" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode-cn/src/Page2/N64_MinimumPathSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="35" column="9" lean-forward="true" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode-cn/src/Page7/N338_CountingBits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="42" column="25" lean-forward="true" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode-cn/src/Page13/N657_RobotReturnToOrigin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="16" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode-cn/src/Page16/N791_CustomSortString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="20" column="4" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+          <folding>
+            <element signature="e#544#545#0" expanded="true" />
+            <element signature="e#571#572#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blog/Final.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="40" lean-forward="true" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
           <folding />
         </state>
       </provider>

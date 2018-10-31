@@ -1,15 +1,22 @@
 package blog;
 
+
 public class Final {
 
     public static void main(String[] args) {
-        final StringBuilder sb = new StringBuilder();
-        sb.append("ffff");
+        final StringBuilder sb = new StringBuilder("hello");
+        sb.append(" java");
         System.out.println(sb.toString());
-
-        // 下面这个语句不能实现，因为定义了final，final是指引用的不可变性，即它只能指向初始时指向的那个对象
-
-
 //        sb = new StringBuilder();
+
+
+
+        count();
+    }
+
+    private static strictfp void count() {
+        float f = 0.123f;
+        double d = 0.356;
+        System.out.println(f + d);
     }
 }

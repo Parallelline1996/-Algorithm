@@ -11,14 +11,39 @@ package Page7;
 * */
 public class N338_CountingBits {
 
-    private static int[] countBits(int num) {
-        if (num <= 0) {
-            return new int[0];
+    public static void main(String[] args) {
+        int[] a = countBits(2);
+        for (int i = 0; i < a.length; i++) {
+            System.out.print(a[i] + " ");
         }
-        int[] array = new int[num + 1];
-        for (int i = 0; i <= num; i++) {
+        System.out.println();
 
+        a = countBits(5);
+        for (int i = 0; i < a.length; i++) {
+            System.out.print(a[i] + " ");
         }
-        return null;
+        System.out.println();
+
+        a = countBits(8);
+        for (int i = 0; i < a.length; i++) {
+            System.out.print(a[i] + " ");
+        }
+        System.out.println();
+    }
+
+    private static int[] countBits(int num) {
+        if (num == 0) {
+            return new int[]{0};
+        }
+        int[] dp = new int[num + 1];
+        for (int i = 1, j = 2; i <= j && i <= num; i++) {
+            if (i == j) {
+                j *= 2;
+                dp[i] = 1;
+                continue;
+            }
+            dp[i] = dp[i - (j >> 1)] + 1;
+        }
+        return dp;
     }
 }
