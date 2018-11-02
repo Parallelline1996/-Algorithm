@@ -1,6 +1,7 @@
 package blog;
 
 
+
 public class Final {
 
     public static void main(String[] args) {
@@ -8,7 +9,6 @@ public class Final {
         sb.append(" java");
         System.out.println(sb.toString());
 //        sb = new StringBuilder();
-
 
 
         count();
