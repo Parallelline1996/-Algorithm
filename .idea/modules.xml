@@ -6,8 +6,9 @@
       <module fileurl="file://$PROJECT_DIR$/DataStructures/DataStructures.iml" filepath="$PROJECT_DIR$/DataStructures/DataStructures.iml" />
       <module fileurl="file://$PROJECT_DIR$/Examination/Examination.iml" filepath="$PROJECT_DIR$/Examination/Examination.iml" />
       <module fileurl="file://$PROJECT_DIR$/Huawei/Huawei.iml" filepath="$PROJECT_DIR$/Huawei/Huawei.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Leetcode/Leetcode.iml" filepath="$PROJECT_DIR$/Leetcode/Leetcode.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Leetcode-cn/Leetcode-cn.iml" filepath="$PROJECT_DIR$/Leetcode-cn/Leetcode-cn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Java.iml" filepath="$PROJECT_DIR$/Java/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leetcode-other/Leetcode.iml" filepath="$PROJECT_DIR$/Leetcode-other/Leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leetcode/Leetcode-cn.iml" filepath="$PROJECT_DIR$/Leetcode/Leetcode-cn.iml" />
       <module fileurl="file://$PROJECT_DIR$/offer/offer.iml" filepath="$PROJECT_DIR$/offer/offer.iml" />
     </modules>
   </component>

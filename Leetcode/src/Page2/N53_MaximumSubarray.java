@@ -15,6 +15,23 @@ public class N53_MaximumSubarray {
         System.out.println(maxSubArray(temp));
     }
 
+    private static int maxSubArray1(int[] nums) {
+        if (nums == null) {
+            return 0;
+        }
+        int[] dp = new int[nums.length];
+        dp[0] = nums[0];
+        int max = dp[0];
+        for (int i = 1; i < nums.length; i++) {
+            dp[i] = Math.max(dp[i - 1] + nums[i], nums[i]);
+            if (dp[i] > max) {
+                max = dp[i];
+            }
+        }
+        return max;
+    }
+
+    // 这道题比较容易，没必要跟上面一样写成dp[]的样子，这个解法速度更快
     private static int maxSubArray(int[] nums) {
         if (nums == null) {
             return 0;
