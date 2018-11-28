@@ -1,5 +1,7 @@
 package Page1;
 
+import tools.ListNode;
+
 /*
 *
 * Given a linked list, swap every two adjacent nodes and return its head.

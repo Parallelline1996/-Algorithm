@@ -1,5 +1,7 @@
 package Page5;
 
+import tools.TreeNode;
+
 /*
 * 翻转一棵二叉树。
 * */

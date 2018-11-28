@@ -3,10 +3,18 @@ package Page2;
 
 import java.util.HashSet;
 import java.util.Set;
+import tools.ListNode;
 
 /*
-* 给定一个排序链表，删除所有重复的元素，使得每个元素只出现一次
+* Given a sorted linked list, delete all duplicates such that each element appear only once.
+Example 1:
+Input: 1->1->2
+Output: 1->2
+Example 2:
+Input: 1->1->2->3->3
+Output: 1->2->3
 * */
+
 public class N83_RemoveDuplicatesfromSortedList {
     public static void main(String[] args) {
         ListNode a = new ListNode(1);
@@ -25,7 +33,26 @@ public class N83_RemoveDuplicatesfromSortedList {
         }
     }
 
+
     private static ListNode deleteDuplicates(ListNode head) {
+        if (head == null) {
+            return null;
+        }
+        ListNode cur = head;
+        ListNode next = cur.next;
+        while (cur != null && next != null) {
+            if (next.val == cur.val) {
+                cur.next = next.next;
+            } else {
+                cur = cur.next;
+            }
+            next = next.next;
+        }
+        return head;
+    }
+
+    // 这种解法在这里比较慢，因为这个列表是有序的
+    private static ListNode deleteDuplicates1(ListNode head) {
         if (head == null) {
             return null;
         }
@@ -51,18 +78,5 @@ public class N83_RemoveDuplicatesfromSortedList {
     }
 
 
-    /* 这种方式更快：
-    注意题目：是给定了一定顺序。。。。
-    *     ListNode current = head;
-        while (current != null && current.next != null) {
-        if (current.next.val == current.val) {
-            current.next = current.next.next;
-        } else {
-            current = current.next;
-        }
-    }
-    return head;
-    *
-    * */
 }
 

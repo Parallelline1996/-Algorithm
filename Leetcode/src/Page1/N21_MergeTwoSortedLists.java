@@ -1,6 +1,14 @@
 package Page1;
 
+import tools.ListNode;
 
+/*
+* Merge two sorted linked lists and return it as a new list.
+* The new list should be made by splicing together the nodes of the first two lists.
+Example:
+Input: 1->2->4, 1->3->4
+Output: 1->1->2->3->4->4
+* */
 public class N21_MergeTwoSortedLists {
 
     public static void main(String[] args) {
@@ -21,12 +29,14 @@ public class N21_MergeTwoSortedLists {
     }
 
     private static ListNode mergeTwoLists(ListNode l1, ListNode l2) {
+        // 对输入进行判断，如果有一边为空，则直接返回另一边
         if (l1 == null) {
             return l2;
         }
         if (l2 == null) {
             return l1;
         }
+        // output为输出时的头指针
         ListNode output = null;
         ListNode temp = null;
         ListNode cur = null;
@@ -40,6 +50,7 @@ public class N21_MergeTwoSortedLists {
                 l2 = l2.next;
             }
             temp = new ListNode(val);
+            // 这里是对起始节点进行赋值，这块可以在循环开始前先进行判断
             if (output == null) {
                 output = temp;
                 cur = temp;
@@ -48,12 +59,12 @@ public class N21_MergeTwoSortedLists {
                 cur = cur.next;
             }
         }
-        while (l1 != null) {
+        if (l1 != null) {
             cur.next = l1;
             cur = cur.next;
             l1 = l1.next;
         }
-        while (l2 != null) {
+        if (l2 != null) {
             cur.next = l2;
             cur = cur.next;
             l2 = l2.next;

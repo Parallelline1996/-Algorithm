@@ -1,5 +1,6 @@
 package Page2;
 
+import tools.ListNode;
 // 82 没有思路
 
 /*

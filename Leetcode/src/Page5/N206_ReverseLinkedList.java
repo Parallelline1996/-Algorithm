@@ -1,6 +1,7 @@
 package Page5;
 
 import java.util.Stack;
+import tools.ListNode;
 
 /*
 * Reverse a singly linked list.
