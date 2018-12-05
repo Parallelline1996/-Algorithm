@@ -63,6 +63,7 @@ public class N147_InsertionSortList {
 
     // 很快的做法
     public ListNode insertionSortList_(ListNode head) {
+        // 没有元素，或只有一个元素时
         if (head == null || head.next == null) {
             return head;
         }
@@ -76,8 +77,12 @@ public class N147_InsertionSortList {
             while (pre.next != null && pre.next.val < head.val) {
                 pre = pre.next;
             }
+            // cur 结点为需要被处理的结点
             ListNode cur = head;
+            // head 结点作为剩余部分的开始结点
             head = head.next;
+
+            // 下面两个操作把链串起来
             cur.next = pre.next;
             pre.next = cur;
         }
