@@ -133,31 +133,6 @@ public class TreeMethod {
         array.remove(array.size() - 1);
     }
 
-    /*
-    * 将每一层都用next指针连起来，from leetcode
-    * */
-    public void populatingNextRightPointersInEachNode(TreeLinkNode root) {
-        Queue<TreeLinkNode> queue = new LinkedList<>();
-        queue.add(root);
-        while (!queue.isEmpty()) {
-            int number = queue.size();
-            TreeLinkNode head = queue.peek();
-            // 通过判断循环的数目，来分层
-            for (int i = 0; i < number; i++) {
-                TreeLinkNode temp = queue.poll();
-                if (i != 0) {
-                    head.next = temp;
-                    head = temp;
-                }
-                if (temp.left != null){
-                    queue.add(temp.left);
-                }
-                if (temp.right != null) {
-                    queue.add(temp.right);
-                }
-            }
-        }
-    }
 
     // Sequence traversal 层序遍历
     public Integer[] sequenceTraversal(TreeNode root) {
@@ -322,7 +297,7 @@ public class TreeMethod {
         depth(treeNode.right, height + 1);
     }
 
-    // 输出最小深度
+    // 输出最小深度（已整理，Leetcode111）
     // 思路：比较两个子节点哪个获得了较小的深度，加1并返回
     private static int minDepth(TreeNode treeNode) {
         int leftMin, rightMin;
