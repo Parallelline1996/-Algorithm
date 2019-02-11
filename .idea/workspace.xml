@@ -2,46 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8de682a2-75b8-4902-9a63-d046a880c72d" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Leetcode/src/Page11/N513_FindBottomLeftTreeValue.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Leetcode/src/Page11/N543_DiameterOfBinaryTree.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Leetcode/src/Page12/N559_MaximumDepthofN_aryTree.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Leetcode/src/Page12/N589_N_aryTreePreorderTraversal.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Leetcode/src/Page12/N590_N_aryTreePostorderTraversal.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Leetcode/src/Page13/N606_ConstructStringFromBinaryTree.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Leetcode/src/Page13/N617_MergeTwoBinaryTrees.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Leetcode/src/Page13/N637_AverageofLevelsinBinaryTree.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Leetcode/src/Page14/N654_MaximumBinaryTree.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Leetcode/src/Page14/N700_SearchInABinarySearchTree.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Leetcode/src/Page15/N701_InsertIntoABinarySearchTree.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Leetcode/src/Page17/N814_BinaryTreePruning.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Leetcode/src/Page18/N872_LeafSimilarTrees.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Leetcode/src/Page18/N889_ConstructBinaryTreefromPreorderandPostorderTraversal.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Leetcode/src/Page18/N897_IncreasingOrderSearchTree.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Leetcode/src/Page2/N100_SameTree.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Leetcode/src/Page2/N94_BinaryTreeInorderTraversal.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Leetcode/src/Page3/N105_ConstructBinaryTreefromPreorderandInorderTraversal.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Leetcode/src/Page3/N106_ConstructBinaryTreefromInorderandPostorderTraversal.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Leetcode/src/Page3/N107_BinaryTreeLevelOrderTraversalII.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Leetcode/src/Page3/N111_MinimumDepthOfBinaryTree.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Leetcode/src/Page3/N112_PathSum.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Leetcode/src/Page3/N113_PathSumII.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Leetcode/src/Page3/N116_PopulatingNextRightPointersinEachNode.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Leetcode/src/Page3/N117_PopulatingNextRightPointersInEachNodeII.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Leetcode/src/Page3/N144_BinaryTreePreorderTraversal.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Leetcode/src/Page3/N145_BinaryTreePostorderTraversal.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Leetcode/src/Page9/N404_SumOfLeftLeaves.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Leetcode/src/Page9/N429_NaryTreeLevelOrderTraversal.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Leetcode/src/Page9/N437_PathSumIII.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Leetcode/src/tools/Node.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Leetcode/src/tools/TreeLinkNode.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Leetcode/src/tools/TreeMethod.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/algorithm/Main.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Leetcode/src/Page12/N561_ArrayPartitionI.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Leetcode/src/Page12/N563_BinaryTreeTilt.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Leetcode/src/Page14/N662_MaximumWidthofBinaryTree.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Leetcode/src/Page15/N703_KthLargestElementInAStream.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Leetcode/src/Page17/N832_FlippingAnImage.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Leetcode/src/Page17/N844_BackspaceStringCompare.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Leetcode/src/Page18/N865_SmallestSubtreewithalltheDeepestNodes.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Leetcode/src/Page3/N124_BinaryTreeMaximumPathSum.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Leetcode/src/Page5/N215_KthLargestElementInAnArray.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Leetcode/src/Page5/N225_ImplementStackUsingQueues.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Leetcode/src/Page5/N232_ImplementQueueUsingStacks.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Leetcode/src/Page5/N239_SlidingWindowMaximum.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Leetcode/src/Page6/N257_BinaryTreePaths.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/DataStructures/src/Method/TreeMethod.java" afterPath="$PROJECT_DIR$/DataStructures/src/Method/TreeMethod.java" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/Page13/N657_RobotReturnToOrigin.java" afterPath="$PROJECT_DIR$/Leetcode/src/Page14/N657_RobotReturnToOrigin.java" />
-      <change beforePath="$PROJECT_DIR$/out/production/-Algorithm/blog/Main.class" afterPath="$PROJECT_DIR$/out/production/-Algorithm/blog/Main.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode-cn/Page1/N3_LongestSubstringWithoutRepeatingCharacters.class" afterPath="$PROJECT_DIR$/out/production/Leetcode-cn/Page1/N3_LongestSubstringWithoutRepeatingCharacters.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode-cn/Page13/N657_RobotReturnToOrigin.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/Page1/N20_ValidParentheses.java" afterPath="$PROJECT_DIR$/Leetcode/src/Page1/N20_ValidParentheses.java" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/Page11/N543_DiameterOfBinaryTree.java" afterPath="$PROJECT_DIR$/Leetcode/src/Page11/N543_DiameterOfBinaryTree.java" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/Page19/N905_SortArrayByParity.java" afterPath="$PROJECT_DIR$/Leetcode/src/Page19/N905_SortArrayByParity.java" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/Page3/N111_MinimumDepthOfBinaryTree.java" afterPath="$PROJECT_DIR$/Leetcode/src/Page3/N111_MinimumDepthOfBinaryTree.java" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/Page3/N112_PathSum.java" afterPath="$PROJECT_DIR$/Leetcode/src/Page3/N112_PathSum.java" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/Page3/N113_PathSumII.java" afterPath="$PROJECT_DIR$/Leetcode/src/Page3/N113_PathSumII.java" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/Page9/N437_PathSumIII.java" afterPath="$PROJECT_DIR$/Leetcode/src/Page9/N437_PathSumIII.java" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/Method/TreeMethod.class" afterPath="$PROJECT_DIR$/out/production/DataStructures/Method/TreeMethod.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/Structures/Sort.class" afterPath="$PROJECT_DIR$/out/production/DataStructures/Structures/Sort.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/Examination/shunfengkeji/Main1.class" afterPath="$PROJECT_DIR$/out/production/Examination/shunfengkeji/Main1.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/Examination/shunfengkeji/Main1_1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Examination/shunfengkeji/Main2.class" afterPath="$PROJECT_DIR$/out/production/Examination/shunfengkeji/Main2.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/Examination/shunfengkeji/Main3.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Multithreading/use_stack/Consumer.class" afterPath="$PROJECT_DIR$/out/production/Java/Multithreading/use_stack/Consumer.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Multithreading/use_stack/Producer.class" afterPath="$PROJECT_DIR$/out/production/Java/Multithreading/use_stack/Producer.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Multithreading/use_stack/Stroge.class" afterPath="$PROJECT_DIR$/out/production/Java/Multithreading/use_stack/Stroge.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode-cn/Page1/N20_ValidParentheses.class" afterPath="$PROJECT_DIR$/out/production/Leetcode-cn/Page1/N20_ValidParentheses.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode-cn/Page11/N543_DiameterOfBinaryTree.class" afterPath="$PROJECT_DIR$/out/production/Leetcode-cn/Page11/N543_DiameterOfBinaryTree.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode-cn/Page19/N905_SortArrayByParity.class" afterPath="$PROJECT_DIR$/out/production/Leetcode-cn/Page19/N905_SortArrayByParity.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode-cn/Page3/N111_MinimumDepthOfBinaryTree.class" afterPath="$PROJECT_DIR$/out/production/Leetcode-cn/Page3/N111_MinimumDepthOfBinaryTree.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode-cn/Page3/N113_PathSumII.class" afterPath="$PROJECT_DIR$/out/production/Leetcode-cn/Page3/N113_PathSumII.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode-cn/Page9/N437_PathSumIII.class" afterPath="$PROJECT_DIR$/out/production/Leetcode-cn/Page9/N437_PathSumIII.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Official_website/Two_sum.class" afterPath="$PROJECT_DIR$/out/production/Leetcode/Official_website/Two_sum.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/chapter2/Main13.class" afterPath="$PROJECT_DIR$/out/production/offer/chapter2/Main13.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/chapter2/Main15.class" afterPath="$PROJECT_DIR$/out/production/offer/chapter2/Main15.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/chapter3/Main16.class" afterPath="$PROJECT_DIR$/out/production/offer/chapter3/Main16.class" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,33 +53,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="N889_ConstructBinaryTreefromPreorderandPostorderTraversal.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Leetcode/src/Page18/N889_ConstructBinaryTreefromPreorderandPostorderTraversal.java">
+      <file leaf-file-name="N703_KthLargestElementInAStream.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Leetcode/src/Page15/N703_KthLargestElementInAStream.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="47" column="9" lean-forward="true" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TreeNode.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Leetcode/src/tools/TreeNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="842">
+              <caret line="65" column="5" lean-forward="true" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="N106_ConstructBinaryTreefromInorderandPostorderTraversal.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Leetcode/src/Page3/N106_ConstructBinaryTreefromInorderandPostorderTraversal.java">
+      <file leaf-file-name="N215_KthLargestElementInAnArray.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Leetcode/src/Page5/N215_KthLargestElementInAnArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="267">
-              <caret line="44" column="45" lean-forward="true" selection-start-line="44" selection-start-column="45" selection-end-line="44" selection-end-column="45" />
+            <state relative-caret-position="432">
+              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="N239_SlidingWindowMaximum.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Leetcode/src/Page5/N239_SlidingWindowMaximum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="48" column="20" lean-forward="true" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -87,13 +85,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="N105_ConstructBinaryTreefromPreorderandInorderTraversal.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Leetcode/src/Page3/N105_ConstructBinaryTreefromPreorderandInorderTraversal.java">
+      <file leaf-file-name="PriorityQueue.java" pinned="false" current-in-tab="false">
+        <entry file="jar://F:/Program Files/Java/jdk1.8.0_152/src.zip!/java/util/PriorityQueue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="50" column="20" lean-forward="true" selection-start-line="50" selection-start-column="20" selection-end-line="50" selection-end-column="20" />
+            <state relative-caret-position="241">
+              <caret line="373" column="19" lean-forward="false" selection-start-line="373" selection-start-column="19" selection-end-line="373" selection-end-column="19" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#4779#4780#0" expanded="true" />
+                <element signature="e#4822#4823#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -120,6 +119,7 @@
       <find>min</find>
       <find>minD</find>
       <find>c</find>
+      <find>delete</find>
     </findStrings>
     <replaceStrings>
       <replace>cur</replace>
@@ -139,22 +139,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Leetcode/src/tools/RandomListNode.java" />
-        <option value="$PROJECT_DIR$/Leetcode/src/Page5/N234_PalindromeLinkedList.java" />
-        <option value="$PROJECT_DIR$/Leetcode/src/Page3/N141_LinkedListCycle.java" />
-        <option value="$PROJECT_DIR$/Leetcode/src/Page4/N160_IntersectionOfTwoLinkedLists.java" />
-        <option value="$PROJECT_DIR$/Leetcode/src/Page9/N445_AddTwoNumbersII.java" />
-        <option value="$PROJECT_DIR$/Leetcode/src/Page7/N328_OddEvenLinkedList.java" />
-        <option value="$PROJECT_DIR$/Leetcode/src/Page2/N86_PartitionList.java" />
-        <option value="$PROJECT_DIR$/Leetcode/src/Page1/N19_RemoveNthNodeFromEndOfList.java" />
-        <option value="$PROJECT_DIR$/Leetcode/src/Page2/N92_ReverseLinkedListII.java" />
-        <option value="$PROJECT_DIR$/Leetcode/src/Page2/N82_RemoveDuplicatesfromSortedListII.java" />
-        <option value="$PROJECT_DIR$/Leetcode/src/Page3/N147_InsertionSortList.java" />
-        <option value="$PROJECT_DIR$/Leetcode/src/Page1/N25_ReverseNodesInK_Group.java" />
-        <option value="$PROJECT_DIR$/Leetcode/src/Page1/N23_MergekSortedLists.java" />
-        <option value="$PROJECT_DIR$/Leetcode/src/Page1/N3_LongestSubstringWithoutRepeatingCharacters.java" />
-        <option value="$PROJECT_DIR$/Leetcode/src/Page13/N617_MergeTwoBinaryTrees.java" />
-        <option value="$PROJECT_DIR$/Leetcode/src/tools/Node.java" />
         <option value="$PROJECT_DIR$/Leetcode/src/Page14/N700_SearchInABinarySearchTree.java" />
         <option value="$PROJECT_DIR$/Leetcode/src/Page12/N559_MaximumDepthofN_aryTree.java" />
         <option value="$PROJECT_DIR$/Leetcode/src/Page18/N872_LeafSimilarTrees.java" />
@@ -167,13 +151,8 @@
         <option value="$PROJECT_DIR$/Leetcode/src/Page14/N654_MaximumBinaryTree.java" />
         <option value="$PROJECT_DIR$/Leetcode/src/Page15/N701_InsertIntoABinarySearchTree.java" />
         <option value="$PROJECT_DIR$/Leetcode/src/Page17/N814_BinaryTreePruning.java" />
-        <option value="$PROJECT_DIR$/Leetcode/src/Page11/N543_DiameterOfBinaryTree.java" />
         <option value="$PROJECT_DIR$/Leetcode/src/Page11/N513_FindBottomLeftTreeValue.java" />
-        <option value="$PROJECT_DIR$/Leetcode/src/Page3/N112_PathSum.java" />
         <option value="$PROJECT_DIR$/Leetcode/src/Page3/N113_PathSumⅡ.java" />
-        <option value="$PROJECT_DIR$/Leetcode/src/Page3/N113_PathSumII.java" />
-        <option value="$PROJECT_DIR$/Leetcode/src/Page9/N437_PathSumIII.java" />
-        <option value="$PROJECT_DIR$/Leetcode/src/Page3/N111_MinimumDepthOfBinaryTree.java" />
         <option value="$PROJECT_DIR$/Leetcode/src/tools/TreeLinkNode.java" />
         <option value="$PROJECT_DIR$/DataStructures/src/Method/TreeMethod.java" />
         <option value="$PROJECT_DIR$/Leetcode/src/Page3/N116_PopulatingNextRightPointersinEachNode.java" />
@@ -190,6 +169,27 @@
         <option value="$PROJECT_DIR$/Leetcode/src/Page3/N105_ConstructBinaryTreefromPreorderandInorderTraversal.java" />
         <option value="$PROJECT_DIR$/Leetcode/src/Page3/N106_ConstructBinaryTreefromInorderandPostorderTraversal.java" />
         <option value="$PROJECT_DIR$/Leetcode/src/Page18/N889_ConstructBinaryTreefromPreorderandPostorderTraversal.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/Page18/N865_SmallestSubtreewithalltheDeepestNodes.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/Page11/N543_DiameterOfBinaryTree.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/Page3/N112_PathSum.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/Page3/N113_PathSumII.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/Page9/N437_PathSumIII.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/Page6/N257_BinaryTreePaths.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/Page3/N124_BinaryTreeMaximumPathSum.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/Page3/N111_MinimumDepthOfBinaryTree.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/Page12/N563_BinaryTreeTilt.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/Page14/N662_MaximumWidthofBinaryTree.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/Page19/N905_SortArrayByParity.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/Page17/N832_FlippingAnImage.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/Page12/N561_ArrayPartitionI.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/Page1/N24_SwapNodesInPairs.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/Page17/N844_BackspaceStringCompare.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/Page1/N20_ValidParentheses.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/Page5/N232_ImplementQueueUsingStacks.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/Page5/N225_ImplementStackUsingQueues.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/Page15/N703_KthLargestElementInAStream.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/Page5/N215_KthLargestElementInAnArray.java" />
+        <option value="$PROJECT_DIR$/Leetcode/src/Page5/N239_SlidingWindowMaximum.java" />
       </list>
     </option>
   </component>
@@ -205,9 +205,9 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="244" />
-    <option name="y" value="377" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2131" />
+    <option name="y" value="122" />
     <option name="width" value="1489" />
     <option name="height" value="982" />
   </component>
@@ -229,8 +229,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -480,8 +482,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -493,7 +493,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="last_opened_file_path" value="F:/javaLib/junit-4.10.jar!/" />
-    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://F:/github/-Algorithm/Leetcode/src/Page18/N889_ConstructBinaryTreefromPreorderandPostorderTraversal.java&#10;Deque&#9;PSI&#9;JAVA://java.util.Deque&#10;Obje&#9;PSI&#9;JAVA://java.lang.Object&#10;Objectr&#9;null&#9;null&#10;Pattern&#9;PSI&#9;JAVA://java.util.regex.Pattern&#10;hashtable&#9;PSI&#9;JAVA://java.util.Hashtable&#10;Integer&#9;FILE&#9;jar://F:/Program Files/Java/jdk1.8.0_152/src.zip!/java/lang/Integer.java&#10;Long&#9;FILE&#9;jar://F:/Program Files/Java/jdk1.8.0_152/src.zip!/java/lang/Long.java&#10;Thread&#9;PSI&#9;JAVA://java.lang.Thread&#10;ArrayList&#9;FILE&#9;jar://F:/Program Files/Java/jdk1.8.0_152/src.zip!/java/util/ArrayList.java&#10;Object&#9;PSI&#9;JAVA://java.lang.Object&#10;StringBu&#9;PSI&#9;JAVA://java.lang.StringBuffer&#10;Hashmap&#9;PSI&#9;JAVA://java.util.HashMap&#10;LinkH&#9;FILE&#9;jar://F:/Program Files/Java/jdk1.8.0_152/src.zip!/java/util/LinkedHashMap.java&#10;TreeMap&#9;PSI&#9;JAVA://java.util.TreeMap&#10;HashMa&#9;PSI&#9;JAVA://java.util.HashMap&#10;Array&#9;FILE&#9;jar://F:/Program Files/Java/jdk1.8.0_152/src.zip!/java/util/ArrayList.java" />
+    <property name="SearchEverywhereHistoryKey" value="ArrayList&#9;PSI&#9;JAVA://java.util.ArrayList&#10;Deque&#9;PSI&#9;JAVA://java.util.Deque&#10;Obje&#9;PSI&#9;JAVA://java.lang.Object&#10;Objectr&#9;null&#9;null&#10;Pattern&#9;PSI&#9;JAVA://java.util.regex.Pattern&#10;hashtable&#9;PSI&#9;JAVA://java.util.Hashtable&#10;Integer&#9;FILE&#9;jar://F:/Program Files/Java/jdk1.8.0_152/src.zip!/java/lang/Integer.java&#10;Long&#9;FILE&#9;jar://F:/Program Files/Java/jdk1.8.0_152/src.zip!/java/lang/Long.java&#10;Thread&#9;PSI&#9;JAVA://java.lang.Thread&#10;Object&#9;PSI&#9;JAVA://java.lang.Object&#10;StringBu&#9;PSI&#9;JAVA://java.lang.StringBuffer&#10;Hashmap&#9;PSI&#9;JAVA://java.util.HashMap&#10;LinkH&#9;FILE&#9;jar://F:/Program Files/Java/jdk1.8.0_152/src.zip!/java/util/LinkedHashMap.java&#10;TreeMap&#9;PSI&#9;JAVA://java.util.TreeMap&#10;HashMa&#9;PSI&#9;JAVA://java.util.HashMap&#10;Array&#9;FILE&#9;jar://F:/Program Files/Java/jdk1.8.0_152/src.zip!/java/util/ArrayList.java" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
@@ -523,7 +523,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.N889_ConstructBinaryTreefromPreorderandPostorderTraversal">
+  <component name="RunManager" selected="Application.N239_SlidingWindowMaximum">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -531,14 +531,14 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="N105_ConstructBinaryTreefromPreorderandInorderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="N225_ImplementStackUsingQueues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Page3.*" />
+          <option name="PATTERN" value="Page5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Page3.N105_ConstructBinaryTreefromPreorderandInorderTraversal" />
+      <option name="MAIN_CLASS_NAME" value="Page5.N225_ImplementStackUsingQueues" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -550,14 +550,14 @@
       <module name="Leetcode-cn" />
       <envs />
     </configuration>
-    <configuration name="N106_ConstructBinaryTreefromInorderandPostorderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="N232_ImplementQueueUsingStacks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Page3.*" />
+          <option name="PATTERN" value="Page5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Page3.N106_ConstructBinaryTreefromInorderandPostorderTraversal" />
+      <option name="MAIN_CLASS_NAME" value="Page5.N232_ImplementQueueUsingStacks" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -569,14 +569,14 @@
       <module name="Leetcode-cn" />
       <envs />
     </configuration>
-    <configuration name="N543_DiameterOfBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="N239_SlidingWindowMaximum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Page11.*" />
+          <option name="PATTERN" value="Page5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Page11.N543_DiameterOfBinaryTree" />
+      <option name="MAIN_CLASS_NAME" value="Page5.N239_SlidingWindowMaximum" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -588,14 +588,14 @@
       <module name="Leetcode-cn" />
       <envs />
     </configuration>
-    <configuration name="N814_BinaryTreePruning" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="N662_MaximumWidthofBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Page17.*" />
+          <option name="PATTERN" value="Page14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Page17.N814_BinaryTreePruning" />
+      <option name="MAIN_CLASS_NAME" value="Page14.N662_MaximumWidthofBinaryTree" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -607,14 +607,14 @@
       <module name="Leetcode-cn" />
       <envs />
     </configuration>
-    <configuration name="N889_ConstructBinaryTreefromPreorderandPostorderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="N703_KthLargestElementInAStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Page18.*" />
+          <option name="PATTERN" value="Page15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Page18.N889_ConstructBinaryTreefromPreorderandPostorderTraversal" />
+      <option name="MAIN_CLASS_NAME" value="Page15.N703_KthLargestElementInAStream" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -701,19 +701,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.N814_BinaryTreePruning" />
-      <item index="1" class="java.lang.String" itemvalue="Application.N543_DiameterOfBinaryTree" />
-      <item index="2" class="java.lang.String" itemvalue="Application.N105_ConstructBinaryTreefromPreorderandInorderTraversal" />
-      <item index="3" class="java.lang.String" itemvalue="Application.N106_ConstructBinaryTreefromInorderandPostorderTraversal" />
-      <item index="4" class="java.lang.String" itemvalue="Application.N889_ConstructBinaryTreefromPreorderandPostorderTraversal" />
+      <item index="0" class="java.lang.String" itemvalue="Application.N662_MaximumWidthofBinaryTree" />
+      <item index="1" class="java.lang.String" itemvalue="Application.N232_ImplementQueueUsingStacks" />
+      <item index="2" class="java.lang.String" itemvalue="Application.N225_ImplementStackUsingQueues" />
+      <item index="3" class="java.lang.String" itemvalue="Application.N703_KthLargestElementInAStream" />
+      <item index="4" class="java.lang.String" itemvalue="Application.N239_SlidingWindowMaximum" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.N889_ConstructBinaryTreefromPreorderandPostorderTraversal" />
-        <item index="1" class="java.lang.String" itemvalue="Application.N106_ConstructBinaryTreefromInorderandPostorderTraversal" />
-        <item index="2" class="java.lang.String" itemvalue="Application.N105_ConstructBinaryTreefromPreorderandInorderTraversal" />
-        <item index="3" class="java.lang.String" itemvalue="Application.N543_DiameterOfBinaryTree" />
-        <item index="4" class="java.lang.String" itemvalue="Application.N814_BinaryTreePruning" />
+        <item index="0" class="java.lang.String" itemvalue="Application.N239_SlidingWindowMaximum" />
+        <item index="1" class="java.lang.String" itemvalue="Application.N703_KthLargestElementInAStream" />
+        <item index="2" class="java.lang.String" itemvalue="Application.N225_ImplementStackUsingQueues" />
+        <item index="3" class="java.lang.String" itemvalue="Application.N232_ImplementQueueUsingStacks" />
+        <item index="4" class="java.lang.String" itemvalue="Application.N662_MaximumWidthofBinaryTree" />
       </list>
     </recent_temporary>
   </component>
@@ -815,7 +815,23 @@
       <workItem from="1544490989500" duration="6485000" />
       <workItem from="1544664486843" duration="15633000" />
       <workItem from="1544751587443" duration="6288000" />
-      <workItem from="1545009073244" duration="6711000" />
+      <workItem from="1545009073244" duration="7953000" />
+      <workItem from="1545095055974" duration="6241000" />
+      <workItem from="1545185986424" duration="2470000" />
+      <workItem from="1545277179896" duration="598000" />
+      <workItem from="1545356403901" duration="4925000" />
+      <workItem from="1545785581059" duration="2345000" />
+      <workItem from="1545872824917" duration="18575000" />
+      <workItem from="1545961005743" duration="5940000" />
+      <workItem from="1546050971593" duration="612000" />
+      <workItem from="1546424943249" duration="1058000" />
+      <workItem from="1548650356094" duration="3260000" />
+      <workItem from="1549375102899" duration="2678000" />
+      <workItem from="1549416639816" duration="6385000" />
+      <workItem from="1549618706056" duration="1688000" />
+      <workItem from="1549782457643" duration="598000" />
+      <workItem from="1549810815103" duration="1239000" />
+      <workItem from="1549851717349" duration="7347000" />
     </task>
     <servers />
   </component>
@@ -852,10 +868,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="454391000" />
+    <option name="totallyTimeSpent" value="521592000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
+    <frame x="2391" y="25" width="2118" height="1281" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -867,18 +883,18 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991204" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27985948" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2796688" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2084673" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23020528" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2647374" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26735094" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43559718" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4351426" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1051,16 +1067,101 @@
           <properties />
           <option name="timeStamp" value="129" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/Page6/N257_BinaryTreePaths.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/Page6/N257_BinaryTreePaths.java</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/Page12/N563_BinaryTreeTilt.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/Page12/N563_BinaryTreeTilt.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/Page14/N662_MaximumWidthofBinaryTree.java</url>
+          <line>98</line>
+          <properties />
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/Page14/N662_MaximumWidthofBinaryTree.java</url>
+          <line>74</line>
+          <properties />
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/Page14/N662_MaximumWidthofBinaryTree.java</url>
+          <line>110</line>
+          <properties />
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/Page14/N662_MaximumWidthofBinaryTree.java</url>
+          <line>126</line>
+          <properties />
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/Page14/N662_MaximumWidthofBinaryTree.java</url>
+          <line>119</line>
+          <properties />
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/Page15/N703_KthLargestElementInAStream.java</url>
+          <line>58</line>
+          <properties />
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/Page15/N703_KthLargestElementInAStream.java</url>
+          <line>51</line>
+          <properties />
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/Page15/N703_KthLargestElementInAStream.java</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/Page15/N703_KthLargestElementInAStream.java</url>
+          <line>61</line>
+          <properties />
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Leetcode/src/Page15/N703_KthLargestElementInAStream.java</url>
+          <line>59</line>
+          <properties />
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="130" />
+      <option name="time" value="146" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="cur" />
         <watch expression="head.next" />
+        <watch expression="p" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>
@@ -1084,192 +1185,11 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Leetcode/src/Page2/N92_ReverseLinkedListII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1104">
-          <caret line="46" column="21" lean-forward="false" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/src/Page5/N206_ReverseLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="960">
-          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="54" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://F:/Program Files/Java/jdk1.8.0_152/src.zip!/java/util/PriorityQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1392">
-          <caret line="82" column="13" lean-forward="false" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/src/Page1/N25_ReverseNodesInK_Group.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="74" column="19" lean-forward="false" selection-start-line="74" selection-start-column="19" selection-end-line="74" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/src/Page1/N23_MergekSortedLists.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1536">
-          <caret line="69" column="29" lean-forward="false" selection-start-line="69" selection-start-column="29" selection-end-line="69" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/src/Page1/N3_LongestSubstringWithoutRepeatingCharacters.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="58" column="12" lean-forward="false" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/src/Page13/N617_MergeTwoBinaryTrees.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="39" column="22" lean-forward="true" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://F:/Program Files/Java/jdk1.8.0_152/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="109" column="0" lean-forward="true" selection-start-line="109" selection-start-column="0" selection-end-line="109" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/src/Page14/N700_SearchInABinarySearchTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="30" column="30" lean-forward="true" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/src/Page12/N559_MaximumDepthofN_aryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="30" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/src/Page18/N872_LeafSimilarTrees.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="864">
-          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="51" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/src/Page3/N101_SymmetricTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/src/Page3/N103_BinaryTreeZigzagLevelOrderTraversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="14" column="15" lean-forward="false" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/src/tools/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="14" lean-forward="false" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/src/Page18/N897_IncreasingOrderSearchTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1416">
-          <caret line="62" column="42" lean-forward="false" selection-start-line="62" selection-start-column="42" selection-end-line="62" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/src/Page3/N104_MaximumDepthOfBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/src/Page13/N637_AverageofLevelsinBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="30" column="30" lean-forward="false" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/src/Page5/N226_InvertBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="19" column="26" lean-forward="false" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/src/Page13/N606_ConstructStringFromBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1512">
-          <caret line="63" column="0" lean-forward="false" selection-start-line="63" selection-start-column="0" selection-end-line="80" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/src/Page2/N100_SameTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="18" column="38" lean-forward="false" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/src/Page9/N404_SumOfLeftLeaves.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="888">
-          <caret line="39" column="96" lean-forward="false" selection-start-line="35" selection-start-column="8" selection-end-line="39" selection-end-column="96" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/src/Page14/N654_MaximumBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1248">
-          <caret line="52" column="13" lean-forward="false" selection-start-line="52" selection-start-column="13" selection-end-line="52" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/src/Page15/N701_InsertIntoABinarySearchTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1368">
-          <caret line="57" column="13" lean-forward="false" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Leetcode/src/Page17/N814_BinaryTreePruning.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1272">
           <caret line="53" column="24" lean-forward="false" selection-start-line="53" selection-start-column="24" selection-end-line="53" selection-end-column="24" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/src/Page11/N543_DiameterOfBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="768">
-          <caret line="32" column="18" lean-forward="false" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -1280,48 +1200,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/src/Page3/N112_PathSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="744">
-          <caret line="31" column="27" lean-forward="false" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/src/Page3/N113_PathSumII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="29" column="4" lean-forward="false" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/src/Page9/N437_PathSumIII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1152">
-          <caret line="48" column="9" lean-forward="false" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/src/Page3/N111_MinimumDepthOfBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="30" column="33" lean-forward="false" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Leetcode/src/tools/TreeLinkNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-          <folding>
-            <element signature="e#141#142#0" expanded="false" />
-            <element signature="e#164#165#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1329,9 +1211,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1080">
           <caret line="48" column="21" lean-forward="false" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1339,9 +1218,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
           <caret line="17" column="37" lean-forward="false" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1349,17 +1225,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="274">
           <caret line="324" column="32" lean-forward="false" selection-start-line="324" selection-start-column="32" selection-end-line="324" selection-end-column="32" />
-          <folding>
-            <element signature="e#12004#12005#0" expanded="false" />
-            <element signature="e#12044#12045#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://F:/Program Files/Java/jdk1.8.0_152/src.zip!/java/util/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1057">
-          <caret line="111" column="19" lean-forward="false" selection-start-line="111" selection-start-column="19" selection-end-line="111" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -1367,9 +1232,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="792">
           <caret line="33" column="13" lean-forward="true" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1377,7 +1239,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="675">
           <caret line="40" column="5" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="40" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1385,7 +1246,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="22" column="12" lean-forward="true" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1393,9 +1253,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="413">
           <caret line="38" column="41" lean-forward="true" selection-start-line="38" selection-start-column="41" selection-end-line="38" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1403,9 +1260,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
           <caret line="27" column="37" lean-forward="false" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1413,7 +1267,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="11" column="16" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1421,9 +1274,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="35" column="32" lean-forward="false" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1431,9 +1281,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="508">
           <caret line="43" column="25" lean-forward="false" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1441,9 +1288,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
           <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1451,7 +1295,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
           <caret line="191" column="3" lean-forward="false" selection-start-line="191" selection-start-column="3" selection-end-line="191" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1459,14 +1302,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
           <caret line="220" column="36" lean-forward="false" selection-start-line="220" selection-start-column="36" selection-end-line="220" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Leetcode/src/Page3/N106_ConstructBinaryTreefromInorderandPostorderTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="44" column="45" lean-forward="true" selection-start-line="44" selection-start-column="45" selection-end-line="44" selection-end-column="45" />
+        <state relative-caret-position="1056">
+          <caret line="44" column="45" lean-forward="false" selection-start-line="44" selection-start-column="45" selection-end-line="44" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1475,26 +1317,289 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Leetcode/src/Page3/N105_ConstructBinaryTreefromPreorderandInorderTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="50" column="20" lean-forward="true" selection-start-line="50" selection-start-column="20" selection-end-line="50" selection-end-column="20" />
+        <state relative-caret-position="1104">
+          <caret line="50" column="20" lean-forward="false" selection-start-line="50" selection-start-column="20" selection-end-line="50" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/Page18/N889_ConstructBinaryTreefromPreorderandPostorderTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="41" column="52" lean-forward="false" selection-start-line="41" selection-start-column="52" selection-end-line="41" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/src/tools/TreeNode.java">
+    <entry file="jar://F:/Program Files/Java/jdk1.8.0_152/src.zip!/java/lang/StringBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="5136">
+          <caret line="243" column="17" lean-forward="false" selection-start-line="243" selection-start-column="17" selection-end-line="243" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Program Files/Java/jdk1.8.0_152/src.zip!/java/lang/AbstractStringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17040">
+          <caret line="742" column="47" lean-forward="false" selection-start-line="742" selection-start-column="47" selection-end-line="742" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/Page3/N112_PathSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="38" column="10" lean-forward="false" selection-start-line="38" selection-start-column="10" selection-end-line="38" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/Page3/N113_PathSumII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="43" column="94" lean-forward="false" selection-start-line="43" selection-start-column="76" selection-end-line="43" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/Page9/N437_PathSumIII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1176">
+          <caret line="49" column="5" lean-forward="false" selection-start-line="38" selection-start-column="4" selection-end-line="49" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/Page6/N257_BinaryTreePaths.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1824">
+          <caret line="79" column="33" lean-forward="false" selection-start-line="79" selection-start-column="33" selection-end-line="79" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/Page3/N124_BinaryTreeMaximumPathSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1272">
+          <caret line="53" column="5" lean-forward="false" selection-start-line="37" selection-start-column="4" selection-end-line="53" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/Page3/N111_MinimumDepthOfBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1056">
+          <caret line="44" column="5" lean-forward="false" selection-start-line="31" selection-start-column="4" selection-end-line="44" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/Page12/N559_MaximumDepthofN_aryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="29" column="9" lean-forward="false" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/Page18/N865_SmallestSubtreewithalltheDeepestNodes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1064">
+          <caret line="59" column="5" lean-forward="false" selection-start-line="41" selection-start-column="4" selection-end-line="59" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/Page11/N543_DiameterOfBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="63" column="0" lean-forward="false" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/Page12/N563_BinaryTreeTilt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="931">
+          <caret line="49" column="41" lean-forward="false" selection-start-line="49" selection-start-column="41" selection-end-line="49" selection-end-column="41" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/src/Page18/N889_ConstructBinaryTreefromPreorderandPostorderTraversal.java">
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/tools/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="47" column="9" lean-forward="true" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
+        <state relative-caret-position="133">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/Page14/N662_MaximumWidthofBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2904">
+          <caret line="124" column="40" lean-forward="false" selection-start-line="124" selection-start-column="40" selection-end-line="124" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/Page19/N905_SortArrayByParity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="60" column="23" lean-forward="false" selection-start-line="60" selection-start-column="23" selection-end-line="60" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/Page17/N832_FlippingAnImage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1032">
+          <caret line="43" column="13" lean-forward="false" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/Page12/N561_ArrayPartitionI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="4" lean-forward="false" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/Page3/N141_LinkedListCycle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="19" column="29" lean-forward="false" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/Page1/N24_SwapNodesInPairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="936">
+          <caret line="39" column="39" lean-forward="false" selection-start-line="39" selection-start-column="39" selection-end-line="39" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/Page17/N844_BackspaceStringCompare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1104">
+          <caret line="46" column="39" lean-forward="false" selection-start-line="46" selection-start-column="39" selection-end-line="46" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Program Files/Java/jdk1.8.0_152/src.zip!/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="100" column="21" lean-forward="true" selection-start-line="100" selection-start-column="21" selection-end-line="100" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/Page5/N232_ImplementQueueUsingStacks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1368">
+          <caret line="59" column="22" lean-forward="false" selection-start-line="59" selection-start-column="22" selection-end-line="59" selection-end-column="22" />
+          <folding>
+            <element signature="e#1779#1780#0" expanded="true" />
+            <element signature="e#1813#1814#0" expanded="true" />
+            <element signature="e#2255#2256#0" expanded="true" />
+            <element signature="e#2323#2324#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Program Files/Java/jdk1.8.0_152/src.zip!/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3528">
+          <caret line="180" column="12" lean-forward="false" selection-start-line="180" selection-start-column="12" selection-end-line="180" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/Page5/N225_ImplementStackUsingQueues.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1704">
+          <caret line="78" column="32" lean-forward="false" selection-start-line="78" selection-start-column="32" selection-end-line="78" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1615#1616#0" expanded="true" />
+            <element signature="e#1657#1658#0" expanded="true" />
+            <element signature="e#1955#1956#0" expanded="true" />
+            <element signature="e#1990#1991#0" expanded="true" />
+            <element signature="e#2046#2047#0" expanded="true" />
+            <element signature="e#2081#2082#0" expanded="true" />
+            <element signature="e#2158#2159#0" expanded="true" />
+            <element signature="e#2196#2197#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/Page1/N20_ValidParentheses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1896">
+          <caret line="81" column="26" lean-forward="false" selection-start-line="81" selection-start-column="26" selection-end-line="81" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Program Files/Java/jdk1.8.0_152/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="120" column="0" lean-forward="false" selection-start-line="120" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
+          <folding>
+            <element signature="e#15114#15144#0" expanded="true" />
+            <element signature="e#15530#15560#1" expanded="true" />
+            <element signature="e#31442#31472#0" expanded="true" />
+            <element signature="e#32387#32417#0" expanded="true" />
+            <element signature="e#33810#33840#0" expanded="true" />
+            <element signature="e#40324#40354#0" expanded="true" />
+            <element signature="e#41022#41052#0" expanded="true" />
+            <element signature="e#41601#41631#0" expanded="true" />
+            <element signature="e#45786#45816#0" expanded="true" />
+            <element signature="e#50567#50597#1" expanded="true" />
+            <element signature="e#51522#51552#1" expanded="true" />
+            <element signature="e#52578#52608#0" expanded="true" />
+            <element signature="e#53665#53695#0" expanded="true" />
+            <element signature="e#54179#54209#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/Page15/N703_KthLargestElementInAStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="842">
+          <caret line="65" column="5" lean-forward="true" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/Page5/N215_KthLargestElementInAnArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Program Files/Java/jdk1.8.0_152/src.zip!/java/util/PriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="373" column="19" lean-forward="false" selection-start-line="373" selection-start-column="19" selection-end-line="373" selection-end-column="19" />
+          <folding>
+            <element signature="e#4779#4780#0" expanded="true" />
+            <element signature="e#4822#4823#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/src/Page5/N239_SlidingWindowMaximum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="48" column="20" lean-forward="true" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

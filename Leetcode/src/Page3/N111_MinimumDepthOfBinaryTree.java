@@ -30,15 +30,14 @@ public class N111_MinimumDepthOfBinaryTree {
 
     // 思路：比较两个子节点哪个获得了较小的深度，加1并返回
     public int minDepth(TreeNode root) {
-        if (root == null) {
-            return 0;
-        }
+        if (root == null)  return 0;
         int leftMinDepth = minDepth(root.left);
         int rightMinDepth = minDepth(root.right);
-        // 注意这里要对左右子树的高度进行判断，如果为 0，这一部分是不能取的，【1，2】高度：2
+        // 左子树不存在
         if (leftMinDepth == 0) {
             return rightMinDepth + 1;
         }
+        // 右子树不存在
         if (rightMinDepth == 0) {
             return leftMinDepth + 1;
         }

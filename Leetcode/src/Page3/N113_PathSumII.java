@@ -36,14 +36,12 @@ public class N113_PathSumII {
 
     public List<List<Integer>> pathSum(TreeNode root, int sum) {
         List<List<Integer>> lists = new ArrayList<>();
-        if (root == null) {
-            return lists;
-        }
+        if (root == null) return lists;
         pathSum(root, sum, lists, new ArrayList<>());
         return lists;
     }
 
-    private static void pathSum(TreeNode root, int sum, List<List<Integer>> lists, List<Integer> list){
+    private void pathSum(TreeNode root, int sum, List<List<Integer>> lists, List<Integer> list){
         if (root == null) {
             return;
         }
@@ -52,10 +50,11 @@ public class N113_PathSumII {
         if (root.val == sum && root.left == null && root.right == null) {
             lists.add(new ArrayList<>(list));
         } else {
-            // root 为中间节点，则继续往下查看孩子节点
+            // 当前节点为中间节点，则继续往下查看其左右节点
             pathSum(root.left, sum - root.val, lists, list);
             pathSum(root.right, sum - root.val, lists, list);
         }
+        // 完成这个节点的遍历返回父节点时，要删除当前节点的值
         list.remove(list.size() - 1);
     }
 }

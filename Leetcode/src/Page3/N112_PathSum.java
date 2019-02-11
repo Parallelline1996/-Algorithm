@@ -35,12 +35,22 @@ public class N112_PathSum {
 
     /*
     * 两种情况：
-    * ① 输入节点为叶子节点，且符合要求
-    * ② 输入节点为内部节点，判断其孩子节点中是否有符合要求的题目
+    * ① 当前节点为叶子节点，且符合要求
+    * ② 当前节点为内部节点，判断其孩子节点中是否有符合要求的题目
     * */
     private static boolean hasPathSum1(TreeNode root, int sum) {
         return (root.val == sum && root.left == null && root.right == null)
                 || (root.left != null && hasPathSum1(root.left, sum - root.val))
                 || (root.right != null && hasPathSum1(root.right, sum - root.val));
     }
+
+    /* 其他书写方式
+    public boolean hasPathSum(TreeNode root, int sum) {
+        if(root == null) return false;
+
+        if(root.left == null && root.right == null && sum - root.val == 0) return true;
+
+        return hasPathSum(root.left, sum - root.val) || hasPathSum(root.right, sum - root.val);
+    }
+    */
 }

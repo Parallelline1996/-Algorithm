@@ -24,6 +24,7 @@ public class N905_SortArrayByParity {
         System.out.println();
     }
 
+    // 没有使用其他额外的空间
     private static int[] sortArrayByParity(int[] A) {
         if (A == null) {
             return null;
@@ -48,5 +49,23 @@ public class N905_SortArrayByParity {
             }
         }
         return A;
+    }
+
+    // 使用额外的空间
+    private static int[] sortArrayByParity_(int[] A){
+        if (A == null) return null;
+        int[] output = new int[A.length];
+        int left = 0, right = A.length - 1;
+        for (int a : A
+             ) {
+            if (a % 2 != 0) {
+                output[right] = a;
+                right--;
+            } else {
+                output[left] = a;
+                left++;
+            }
+        }
+        return output;
     }
 }
