@@ -16,19 +16,19 @@ import java.util.*;
 public class N22_GenerateParentheses {
 
     public static void main(String[] args) {
-        List<String> lists = generateParenthesis_(3);
+        List<String> lists = new N22_GenerateParentheses().generateParenthesis(3);
         for (String a : lists
              ) {
             System.out.print(a + "   ");
         }
     }
 
-    private static void backtrack(int max, int left, int right, List<String> lists, String cur) {
+    private void backtrack(int max, int left, int right, List<String> lists, String cur) {
         if (cur.length() == max * 2) {
             lists.add(cur);
             return;
         }
-        // 能否添加左括号
+        // 能否添加左括号，保证左括号数小于 n
         if (left < max) {
             backtrack(max, left + 1, right, lists, cur + "(");
         }
@@ -38,14 +38,14 @@ public class N22_GenerateParentheses {
         }
     }
 
-    private static List<String> generateParenthesis_(int n) {
+    public List<String> generateParenthesis(int n) {
         List<String> list = new ArrayList<>();
         backtrack(n, 1, 0, list, "(");
         return list;
     }
 
     // 超出时间限制
-    private static List<String> generateParenthesis(int n) {
+    private static List<String> generateParenthesis_(int n) {
         List<String> lists = new ArrayList<>();
         if (n <= 0){
             return lists;

@@ -15,15 +15,14 @@ public class N121_BestTimeToBuyAndSellStock {
     // 只需要遍历一次的解法：
     // 通过维持最小峰值跟最大差值两个值
     private static int maxProfit(int[] prices) {
-        if (prices == null) {
-            return 0;
-        }
+        if (prices == null) return 0;
         int minValue = Integer.MAX_VALUE;
         int maxProfit = 0;
         for (int a : prices) {
             if (a < minValue) {
                 minValue = a;
             } else if (a - minValue > maxProfit) {
+                // 保证了买入卖出的顺序问题
                 maxProfit = a - minValue;
             }
         }
