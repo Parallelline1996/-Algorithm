@@ -61,12 +61,19 @@ public class N36_ValidSudoku {
 
     }
 
+    /*
+    * 思路：
+    * 将每个不为 "."的点存入到 hashSet中，并用：
+    * i(board[i][j])  (board[i][j])j  i/3(board[i][j])j/3
+    * 的形式，分别代表第 i行有个 x，第 j列有个 x，第 i/3,j/3的九宫格里有个 x
+    * */
     public boolean isValidSudoku(char[][] board) {
         HashSet<String> hashSet = new HashSet<>();
         for (int i = 0; i < 9; i++) {
             for (int j = 0; j < 9; j++) {
                 if (board[i][j] != '.') {
                     String k = "(" + board[i][j] + ")";
+                    // 对三种情况均存入 HashSet中
                     if (!hashSet.add(i + k) ||
                             !hashSet.add(k + j) ||
                             !hashSet.add("" + (i / 3) + k + (j / 3))) {

@@ -24,9 +24,7 @@ public class N17_LetterCombinationsOfAPhoneNumber {
 
     private static List<String> letterCombinations(String digits) {
         List<String> lists = new ArrayList<>();
-        if (digits == null || digits.length() == 0) {
-            return lists;
-        }
+        if (digits == null || digits.length() == 0) return lists;
         char[] chars = new char[digits.length()];
         letterCombinations(lists, chars, digits);
         return lists;
@@ -45,6 +43,7 @@ public class N17_LetterCombinationsOfAPhoneNumber {
         }
     }
 
+    // 数字转成对应的字母
     private static char[] change(String s) {
         switch (s) {
             case "2" : return new char[]{'a', 'b', 'c'};

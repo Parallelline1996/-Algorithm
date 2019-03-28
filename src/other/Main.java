@@ -27,14 +27,32 @@ public class Main {
 //        }
 //        System.out.println();
 
-        ArrayList<Integer> arrayList = new ArrayList<>();
-        ArrayList<Integer> arrayList1 = new ArrayList<>();
+//        ArrayList<Integer> arrayList = new ArrayList<>();
+//        ArrayList<Integer> arrayList1 = new ArrayList<>();
+//
+//        arrayList.add(1);
+//        arrayList1.add(1);
+//
+//        System.out.println(arrayList == arrayList1);
+//        System.out.println(arrayList.equals(arrayList1));
 
-        arrayList.add(1);
-        arrayList1.add(1);
 
-        System.out.println(arrayList == arrayList1);
-        System.out.println(arrayList.equals(arrayList1));
+//        String a = "abcd";
+//        String a1 = "abc";
+//        String a2 = "bc";
+//
+//        System.out.println(a.compareTo(a1));
+//        System.out.println(a.compareTo(a2));
+////        System.out.println(Integer.parseInt(a));
+//        System.out.println(Integer.parseInt("55"));
 
+        String k = "Fff";
+        StringTest(k);
+        System.out.println(k);
+    }
+
+
+    private static void StringTest(String k) {
+        k = "helloworld";
     }
 }

@@ -16,4 +16,16 @@ public class N9_PalindromeNumber {
         String string = stringBuilder.toString();
         return string.equals(stringBuilder.reverse().toString());
     }
+
+    // faster
+    public boolean isPalindrome_(int x) {
+        String s = Integer.toString(x);
+        for (int i = 0; i < s.length() / 2; i++) {
+            if (s.charAt(i) != s.charAt(s.length() - i - 1)) {
+                return false;
+            }
+        }
+        return true;
+    }
+
 }

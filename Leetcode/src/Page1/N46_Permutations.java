@@ -1,6 +1,7 @@
 package Page1;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 /*
@@ -31,22 +32,26 @@ public class N46_Permutations {
 
     private static void permute(int[] nums, int start, List<List<Integer>> output) {
         if (start == nums.length - 1) {
-            List temp = new ArrayList(nums.length);
+            List<Integer> temp = new ArrayList<>(nums.length);
             for (int a : nums
                  ) {
                 temp.add(a);
             }
             output.add(temp);
-            System.out.println(temp.toString());
         } else {
+            // 注意这里要从 start开始，因为还有一开始的序列这种情况
             for (int i = start; i < nums.length; i++) {
+                // 进行交换
                 swap(nums, start, i);
+                // 将开始交换的位向后推动一位 start = start + 1
                 permute(nums, start + 1, output);
+                // 交换回来，为了下一次交换
                 swap(nums, start, i);
             }
         }
     }
 
+    // 用于交换的方法
     private static void swap(int[] nums, int i, int j) {
         int temp = nums[i];
         nums[i] = nums[j];

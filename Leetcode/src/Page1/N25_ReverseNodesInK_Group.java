@@ -36,6 +36,10 @@ public class N25_ReverseNodesInK_Group {
 
     }
 
+    /*
+    * 思路：
+    * 找到符合条件的组，将整组进行倒置
+    * */
     private static ListNode reverseKGroup(ListNode head, int k) {
         if (head == null || head.next == null || k == 1) {
             return head;
@@ -62,6 +66,7 @@ public class N25_ReverseNodesInK_Group {
         return newHead.next;
     }
 
+    // 链表倒置
     private static ListNode reverse(ListNode head, int k, ListNode nextGroup) {
         ListNode pre = nextGroup;
         ListNode cur = head;

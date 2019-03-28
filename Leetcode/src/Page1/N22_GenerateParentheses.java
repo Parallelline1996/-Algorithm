@@ -44,6 +44,9 @@ public class N22_GenerateParentheses {
         return list;
     }
 
+
+
+
     // 超出时间限制
     private static List<String> generateParenthesis_(int n) {
         List<String> lists = new ArrayList<>();

@@ -13,6 +13,7 @@ public class N58_LengthOfLastWord {
         System.out.println(lengthOfLastWord("hl "));
         System.out.println(lengthOfLastWord("      "));
         System.out.println(lengthOfLastWord("a"));
+        System.out.println(lengthOfLastWord("a "));
     }
 
     private static int lengthOfLastWord(String s) {

@@ -24,11 +24,19 @@ public class N746_MinCostClimbingStairs {
         System.out.println(minCostClimbingStairs(new int[]{1, 100, 1, 1, 1, 100, 1, 1, 100, 1})); //6
     }
 
+    /*
+    * 思路：
+    * 记录到达每一层所需要的最少花费：
+    * 通过比较到达前一级台阶，跟前两级台阶所需的最小花费来判断
+    * */
     private static int minCostClimbingStairs(int[] cost) {
+        // 定义状态，初始值
         int[] dp = new int[cost.length];
         dp[0] = cost[0];
         dp[1] = cost[1];
+
         for (int i = 2; i < cost.length; i++) {
+            // 转移方程
             dp[i] = cost[i] + Math.min(dp[i - 1], dp[i - 2]);
         }
         return Math.min(dp[cost.length - 1], dp[cost.length - 2]);

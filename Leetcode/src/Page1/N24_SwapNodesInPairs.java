@@ -31,7 +31,7 @@ public class N24_SwapNodesInPairs {
     }
 
     public ListNode swapPairs_(ListNode head) {
-        // 多用了一个节点做最前的节点，减少判断的问题
+        // 哨兵节点
         ListNode dummy = new ListNode(0);
         ListNode prev = dummy;
         prev.next = head;

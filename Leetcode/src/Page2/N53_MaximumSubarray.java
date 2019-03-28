@@ -15,14 +15,23 @@ public class N53_MaximumSubarray {
         System.out.println(maxSubArray(temp));
     }
 
+    /*
+    * 思路：
+    * 动态规划
+    * */
     private static int maxSubArray1(int[] nums) {
         if (nums == null) {
             return 0;
         }
+        // 定义为以第 i点为最后一个元素的子数组的能获得的最大值
         int[] dp = new int[nums.length];
+
+        // 初始化
         dp[0] = nums[0];
         int max = dp[0];
+
         for (int i = 1; i < nums.length; i++) {
+            // 判断是否要包含当前节点之前的其他节点
             dp[i] = Math.max(dp[i - 1] + nums[i], nums[i]);
             if (dp[i] > max) {
                 max = dp[i];

@@ -60,8 +60,9 @@ public class N23_MergekSortedLists {
             }
         });
         // 初始化大小为k的堆
-        for(int i = 0; i < lists.length; i++){
-            if(lists[i] != null) q.offer(lists[i]);
+        for (ListNode k : lists
+             ) {
+            q.offer(k);
         }
         ListNode curr = dummy;
         while(!q.isEmpty()){

@@ -81,3 +81,69 @@ class MyStack {
         return queue.isEmpty();
     }
 }
+
+class MyStack_ {
+
+    Queue<Integer> queue1;
+    Queue<Integer> queue2;
+
+    /** Initialize your data structure here. */
+    public MyStack_() {
+        queue1 = new LinkedList<>();
+        queue2 = new LinkedList<>();
+    }
+
+    /** Push element x onto stack. */
+    public void push(int x) {
+        if (this.empty()) {
+            queue1.add(x);
+        } else {
+            if (queue1.isEmpty()) {
+                queue2.add(x);
+            } else {
+                queue1.add(x);
+            }
+        }
+    }
+
+    /** Removes the element on top of the stack and returns that element. */
+    public int pop() {
+        int value = 0;
+        if (queue1.isEmpty()) {
+            while (queue2.size() > 1) {
+                queue1.add(queue2.poll());
+            }
+            value = queue2.poll();
+        } else {
+            while (queue1.size() > 1) {
+                queue2.add(queue1.poll());
+            }
+            value = queue1.poll();
+        }
+        return value;
+    }
+
+    /** Get the top element. */
+    public int top() {
+        int value = 0;
+        if (queue1.isEmpty()) {
+            while (queue2.size() > 1) {
+                queue1.add(queue2.poll());
+            }
+            value = queue2.peek();
+            queue1.add(queue2.poll());
+        } else {
+            while (queue1.size() > 1) {
+                queue2.add(queue1.poll());
+            }
+            value = queue1.peek();
+            queue2.add(queue1.poll());
+        }
+        return value;
+    }
+
+    /** Returns whether the stack is empty. */
+    public boolean empty() {
+        return queue1.isEmpty() && queue2.isEmpty();
+    }
+}

@@ -9,21 +9,15 @@ import java.util.Set;
 * */
 public class N771_JewelsAndStones {
 
-    private static int numJewelsInStones(String J, String S) {
-        if (J == null || S == null) {
-            return 0;
-        }
-        char[] stones = S.toCharArray();
-        char[] jewels = J.toCharArray();
+    public int numJewelsInStones(String J, String S) {
+        if (J == null || S == null) return 0;
         Set<Character> set = new HashSet<>();
-        for (char a : jewels
-             ) {
-            set.add(a);
+        for (int i = 0; i < J.length(); i++) {
+            set.add(J.charAt(i));
         }
         int number = 0;
-        for (char a : stones
-             ) {
-            if (set.contains(a)) {
+        for (int i = 0; i < S.length(); i++) {
+            if (set.contains(S.charAt(i))) {
                 number++;
             }
         }

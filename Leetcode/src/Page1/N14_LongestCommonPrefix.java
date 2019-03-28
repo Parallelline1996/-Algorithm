@@ -45,17 +45,17 @@ public class N14_LongestCommonPrefix {
         return mark? strs[0]: strs[0].substring(0, i - 1);
     }
 
-    // 87%
+    // 100%
     private static String longestCommonPrefix_(String[] strs) {
-        if (strs == null || strs.length == 0) {
-            return "";
-        }
-        if (strs.length == 1) {
-            return strs[0];
-        }
+        if (strs == null || strs.length == 0) return "";
+        if (strs.length == 1) return strs[0];
+
+        // 取数组第一个元素的长度为标杆
         int length = strs[0].length();
         for (int i = 1; i < strs.length; i++) {
+            // 若当前元素长度小于假定的最大公共前缀，则缩短假定的最大公共前缀
             if (strs[i].length() >= length) {
+                // 判断是否符合，不符合则最大公共前缀减一
                 if (!strs[i].substring(0, length).equals(strs[0].substring(0, length))) {
                     length--;
                     i--;

@@ -52,10 +52,12 @@ public class N51_N_Queens {
     // n : 第几行
     // total : 总共几行
     private static void solveQueens(List<List<String>> output, int[][] nums, int n, int total) {
+        // 当遍历完所有的行时，输出一组结果
         if (n > total) {
             addList(output, nums);
             return;
         }
+        // 依次判断当前行的第 i个位置是否符合题意
         for (int i = 1; i <= total; i++) {
             if (placeAQueue(n - 1, i - 1, nums)) {
                 nums[n - 1][i - 1] = 1;
@@ -65,17 +67,21 @@ public class N51_N_Queens {
         }
     }
 
+    // 判断第 row行，第 len列是否可以放置“皇后”
     private static boolean placeAQueue (int row, int len, int[][] nums) {
+        // 判断竖列方向上是否符合题意
         for (int i = row; i >= 0; i--) {
             if (nums[i][len] == 1) {
                 return false;
             }
         }
+        // 判断斜向左上方向上是否符合题意
         for (int i = row, j = len; i >= 0 && j >= 0; i--, j--) {
             if (nums[i][j] == 1) {
                 return false;
             }
         }
+        // 判断斜向右上方向上是否符合题意
         for (int i = row, j = len; j < nums.length && i >= 0; i--, j++) {
             if (nums[i][j] == 1) {
                 return false;
@@ -84,6 +90,7 @@ public class N51_N_Queens {
         return true;
     }
 
+    // 用于将符合要求的 N皇后排列保存为符合题目要求的格式
     private static void addList(List<List<String>> output, int[][] nums) {
         List<String> temp = new ArrayList<>();
         StringBuilder sb = new StringBuilder();
